@@ -1,0 +1,1485 @@
+C:\Users\vietm\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\QLBanThuoc.exe.config
+C:\Users\vietm\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\QLBanThuoc.exe
+C:\Users\vietm\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\QLBanThuoc.pdb
+C:\Users\vietm\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.BonusSkins.v19.1.dll
+C:\Users\vietm\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.Data.v19.1.dll
+C:\Users\vietm\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.Printing.v19.1.Core.dll
+C:\Users\vietm\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.Sparkline.v19.1.Core.dll
+C:\Users\vietm\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.Utils.v19.1.dll
+C:\Users\vietm\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraBars.v19.1.dll
+C:\Users\vietm\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraEditors.v19.1.dll
+C:\Users\vietm\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.Pdf.v19.1.Core.dll
+C:\Users\vietm\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.Data.v19.1.xml
+C:\Users\vietm\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.Printing.v19.1.Core.xml
+C:\Users\vietm\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.Utils.v19.1.xml
+C:\Users\vietm\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraBars.v19.1.xml
+C:\Users\vietm\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.Sparkline.v19.1.Core.xml
+C:\Users\vietm\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraEditors.v19.1.xml
+C:\Users\vietm\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.Pdf.v19.1.Core.xml
+C:\Users\vietm\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.Data.v19.1.resources.dll
+C:\Users\vietm\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.Data.v19.1.resources.dll
+C:\Users\vietm\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.Data.v19.1.resources.dll
+C:\Users\vietm\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.Data.v19.1.resources.dll
+C:\Users\vietm\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\vietm\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\vietm\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\vietm\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\vietm\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.Utils.v19.1.resources.dll
+C:\Users\vietm\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.Utils.v19.1.resources.dll
+C:\Users\vietm\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.Utils.v19.1.resources.dll
+C:\Users\vietm\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.Utils.v19.1.resources.dll
+C:\Users\vietm\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.XtraBars.v19.1.resources.dll
+C:\Users\vietm\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.XtraBars.v19.1.resources.dll
+C:\Users\vietm\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.XtraBars.v19.1.resources.dll
+C:\Users\vietm\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.XtraBars.v19.1.resources.dll
+C:\Users\vietm\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\vietm\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\vietm\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\vietm\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\vietm\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\vietm\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\vietm\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\vietm\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\vietm\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\vietm\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\vietm\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\vietm\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\vietm\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\obj\Debug\QLBanThuoc.csprojAssemblyReference.cache
+C:\Users\vietm\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\obj\Debug\QLBanThuoc.Form1.resources
+C:\Users\vietm\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\obj\Debug\QLBanThuoc.Properties.Resources.resources
+C:\Users\vietm\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\obj\Debug\QLBanThuoc.csproj.GenerateResource.cache
+C:\Users\vietm\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\obj\Debug\QLBanThuoc.exe.licenses
+C:\Users\vietm\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\obj\Debug\QLBanThuoc.csproj.CoreCompileInputs.cache
+C:\Users\vietm\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\obj\Debug\QLBanThuoc.csproj.CopyComplete
+C:\Users\vietm\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\obj\Debug\QLBanThuoc.exe
+C:\Users\vietm\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\obj\Debug\QLBanThuoc.pdb
+C:\Users\vietm\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.Charts.v19.1.Core.dll
+C:\Users\vietm\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.Office.v19.1.Core.dll
+C:\Users\vietm\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.PivotGrid.v19.1.Core.dll
+C:\Users\vietm\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.RichEdit.v19.1.Core.dll
+C:\Users\vietm\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.RichEdit.v19.1.Export.dll
+C:\Users\vietm\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.Utils.v19.1.UI.dll
+C:\Users\vietm\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraCharts.v19.1.dll
+C:\Users\vietm\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraGauges.v19.1.Core.dll
+C:\Users\vietm\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraPrinting.v19.1.dll
+C:\Users\vietm\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraReports.v19.1.dll
+C:\Users\vietm\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraReports.v19.1.Extensions.dll
+C:\Users\vietm\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.Images.v19.1.dll
+C:\Users\vietm\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraTreeList.v19.1.dll
+C:\Users\vietm\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraLayout.v19.1.dll
+C:\Users\vietm\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraRichEdit.v19.1.dll
+C:\Users\vietm\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraVerticalGrid.v19.1.dll
+C:\Users\vietm\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.Xpo.v19.1.dll
+C:\Users\vietm\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.DataAccess.v19.1.dll
+C:\Users\vietm\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.CodeParser.v19.1.dll
+C:\Users\vietm\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.DataAccess.v19.1.UI.dll
+C:\Users\vietm\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraGrid.v19.1.dll
+C:\Users\vietm\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraNavBar.v19.1.dll
+C:\Users\vietm\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraCharts.v19.1.Wizard.dll
+C:\Users\vietm\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraPivotGrid.v19.1.dll
+C:\Users\vietm\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraCharts.v19.1.Extensions.dll
+C:\Users\vietm\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraDiagram.v19.1.dll
+C:\Users\vietm\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.Diagram.v19.1.Core.dll
+C:\Users\vietm\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.Office.v19.1.Core.xml
+C:\Users\vietm\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.PivotGrid.v19.1.Core.xml
+C:\Users\vietm\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.RichEdit.v19.1.Core.xml
+C:\Users\vietm\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.Utils.v19.1.UI.xml
+C:\Users\vietm\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraCharts.v19.1.xml
+C:\Users\vietm\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraGauges.v19.1.Core.xml
+C:\Users\vietm\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraPrinting.v19.1.xml
+C:\Users\vietm\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraReports.v19.1.xml
+C:\Users\vietm\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraReports.v19.1.Extensions.xml
+C:\Users\vietm\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraTreeList.v19.1.xml
+C:\Users\vietm\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraLayout.v19.1.xml
+C:\Users\vietm\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraRichEdit.v19.1.xml
+C:\Users\vietm\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraVerticalGrid.v19.1.xml
+C:\Users\vietm\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.Xpo.v19.1.xml
+C:\Users\vietm\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.DataAccess.v19.1.xml
+C:\Users\vietm\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.DataAccess.v19.1.UI.xml
+C:\Users\vietm\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraGrid.v19.1.xml
+C:\Users\vietm\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraNavBar.v19.1.xml
+C:\Users\vietm\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraCharts.v19.1.Wizard.xml
+C:\Users\vietm\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraPivotGrid.v19.1.xml
+C:\Users\vietm\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraDiagram.v19.1.xml
+C:\Users\vietm\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.Diagram.v19.1.Core.xml
+C:\Users\vietm\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.Office.v19.1.Core.resources.dll
+C:\Users\vietm\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.Office.v19.1.Core.resources.dll
+C:\Users\vietm\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.Office.v19.1.Core.resources.dll
+C:\Users\vietm\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.Office.v19.1.Core.resources.dll
+C:\Users\vietm\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.PivotGrid.v19.1.Core.resources.dll
+C:\Users\vietm\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.PivotGrid.v19.1.Core.resources.dll
+C:\Users\vietm\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.PivotGrid.v19.1.Core.resources.dll
+C:\Users\vietm\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.PivotGrid.v19.1.Core.resources.dll
+C:\Users\vietm\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.RichEdit.v19.1.Core.resources.dll
+C:\Users\vietm\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.RichEdit.v19.1.Core.resources.dll
+C:\Users\vietm\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.RichEdit.v19.1.Core.resources.dll
+C:\Users\vietm\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.RichEdit.v19.1.Core.resources.dll
+C:\Users\vietm\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.Utils.v19.1.UI.resources.dll
+C:\Users\vietm\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.Utils.v19.1.UI.resources.dll
+C:\Users\vietm\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.Utils.v19.1.UI.resources.dll
+C:\Users\vietm\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.Utils.v19.1.UI.resources.dll
+C:\Users\vietm\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.XtraCharts.v19.1.resources.dll
+C:\Users\vietm\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.XtraCharts.v19.1.resources.dll
+C:\Users\vietm\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.XtraCharts.v19.1.resources.dll
+C:\Users\vietm\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.XtraCharts.v19.1.resources.dll
+C:\Users\vietm\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.XtraGauges.v19.1.Core.resources.dll
+C:\Users\vietm\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.XtraGauges.v19.1.Core.resources.dll
+C:\Users\vietm\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.XtraGauges.v19.1.Core.resources.dll
+C:\Users\vietm\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.XtraGauges.v19.1.Core.resources.dll
+C:\Users\vietm\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.XtraPrinting.v19.1.resources.dll
+C:\Users\vietm\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.XtraPrinting.v19.1.resources.dll
+C:\Users\vietm\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.XtraPrinting.v19.1.resources.dll
+C:\Users\vietm\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.XtraPrinting.v19.1.resources.dll
+C:\Users\vietm\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.XtraReports.v19.1.resources.dll
+C:\Users\vietm\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.XtraReports.v19.1.resources.dll
+C:\Users\vietm\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.XtraReports.v19.1.resources.dll
+C:\Users\vietm\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.XtraReports.v19.1.resources.dll
+C:\Users\vietm\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.XtraReports.v19.1.Extensions.resources.dll
+C:\Users\vietm\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.XtraReports.v19.1.Extensions.resources.dll
+C:\Users\vietm\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.XtraReports.v19.1.Extensions.resources.dll
+C:\Users\vietm\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.XtraReports.v19.1.Extensions.resources.dll
+C:\Users\vietm\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.XtraTreeList.v19.1.resources.dll
+C:\Users\vietm\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.XtraTreeList.v19.1.resources.dll
+C:\Users\vietm\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.XtraTreeList.v19.1.resources.dll
+C:\Users\vietm\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.XtraTreeList.v19.1.resources.dll
+C:\Users\vietm\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.XtraLayout.v19.1.resources.dll
+C:\Users\vietm\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.XtraLayout.v19.1.resources.dll
+C:\Users\vietm\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.XtraLayout.v19.1.resources.dll
+C:\Users\vietm\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.XtraLayout.v19.1.resources.dll
+C:\Users\vietm\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.XtraRichEdit.v19.1.resources.dll
+C:\Users\vietm\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.XtraRichEdit.v19.1.resources.dll
+C:\Users\vietm\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.XtraRichEdit.v19.1.resources.dll
+C:\Users\vietm\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.XtraRichEdit.v19.1.resources.dll
+C:\Users\vietm\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+C:\Users\vietm\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+C:\Users\vietm\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+C:\Users\vietm\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+C:\Users\vietm\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.Xpo.v19.1.resources.dll
+C:\Users\vietm\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.Xpo.v19.1.resources.dll
+C:\Users\vietm\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.Xpo.v19.1.resources.dll
+C:\Users\vietm\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.Xpo.v19.1.resources.dll
+C:\Users\vietm\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.DataAccess.v19.1.resources.dll
+C:\Users\vietm\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.DataAccess.v19.1.resources.dll
+C:\Users\vietm\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.DataAccess.v19.1.resources.dll
+C:\Users\vietm\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.DataAccess.v19.1.resources.dll
+C:\Users\vietm\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.DataAccess.v19.1.UI.resources.dll
+C:\Users\vietm\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.DataAccess.v19.1.UI.resources.dll
+C:\Users\vietm\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.DataAccess.v19.1.UI.resources.dll
+C:\Users\vietm\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.DataAccess.v19.1.UI.resources.dll
+C:\Users\vietm\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.XtraGrid.v19.1.resources.dll
+C:\Users\vietm\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.XtraGrid.v19.1.resources.dll
+C:\Users\vietm\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.XtraGrid.v19.1.resources.dll
+C:\Users\vietm\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.XtraGrid.v19.1.resources.dll
+C:\Users\vietm\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.XtraNavBar.v19.1.resources.dll
+C:\Users\vietm\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.XtraNavBar.v19.1.resources.dll
+C:\Users\vietm\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.XtraNavBar.v19.1.resources.dll
+C:\Users\vietm\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.XtraNavBar.v19.1.resources.dll
+C:\Users\vietm\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+C:\Users\vietm\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+C:\Users\vietm\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+C:\Users\vietm\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+C:\Users\vietm\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.XtraPivotGrid.v19.1.resources.dll
+C:\Users\vietm\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.XtraPivotGrid.v19.1.resources.dll
+C:\Users\vietm\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.XtraPivotGrid.v19.1.resources.dll
+C:\Users\vietm\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.XtraPivotGrid.v19.1.resources.dll
+C:\Users\vietm\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.Diagram.v19.1.Core.resources.dll
+C:\Users\vietm\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.Diagram.v19.1.Core.resources.dll
+C:\Users\vietm\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.Diagram.v19.1.Core.resources.dll
+C:\Users\vietm\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.Diagram.v19.1.Core.resources.dll
+C:\Users\vietm\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\obj\Debug\QLBanThuoc.Data.frmConnection.resources
+C:\Users\vietm\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\obj\Debug\QLBanThuoc.frmThongKe.DoanhThu.resources
+C:\Users\vietm\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\obj\Debug\QLBanThuoc.frmTimKiem.TenThuoc.resources
+C:\Users\vietm\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\obj\Debug\QLBanThuoc.BCTK.ThuocNhap.resources
+C:\Users\vietm\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\obj\Debug\QLBanThuoc.BCTK.ThuocBanRa.resources
+C:\Users\vietm\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\obj\Debug\QLBanThuoc.BCTK.SoLuongTon.resources
+C:\Users\vietm\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\obj\Debug\QLBanThuoc.BCTK.ThuocHetHan.resources
+C:\Users\vietm\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\obj\Debug\QLBanThuoc.Data.XtraForm1.resources
+C:\Users\vietm\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\obj\Debug\QLBanThuoc.frmNhaCungCap.NhaCungCap.resources
+C:\Users\vietm\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\obj\Debug\QLBanThuoc.frmQuanLyThuoc.frmDanhSach.resources
+D:\Study\College Stuff\Nam3\Kỳ 2\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\obj\Debug\QLBanThuoc.csprojAssemblyReference.cache
+D:\Study\College Stuff\Nam3\Kỳ 2\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\obj\Debug\QLBanThuoc.BCTK.SoLuongTon.resources
+D:\Study\College Stuff\Nam3\Kỳ 2\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\obj\Debug\QLBanThuoc.BCTK.ThuocBanRa.resources
+D:\Study\College Stuff\Nam3\Kỳ 2\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\obj\Debug\QLBanThuoc.BCTK.ThuocHetHan.resources
+D:\Study\College Stuff\Nam3\Kỳ 2\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\obj\Debug\QLBanThuoc.BCTK.ThuocNhap.resources
+D:\Study\College Stuff\Nam3\Kỳ 2\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\obj\Debug\QLBanThuoc.Data.frmConnection.resources
+D:\Study\College Stuff\Nam3\Kỳ 2\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\obj\Debug\QLBanThuoc.Data.XtraForm1.resources
+D:\Study\College Stuff\Nam3\Kỳ 2\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\obj\Debug\QLBanThuoc.Form1.resources
+D:\Study\College Stuff\Nam3\Kỳ 2\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\obj\Debug\QLBanThuoc.frmNhaCungCap.NhaCungCap.resources
+D:\Study\College Stuff\Nam3\Kỳ 2\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\obj\Debug\QLBanThuoc.frmQuanLyThuoc.frmDanhSach.resources
+D:\Study\College Stuff\Nam3\Kỳ 2\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\obj\Debug\QLBanThuoc.frmThongKe.DoanhThu.resources
+D:\Study\College Stuff\Nam3\Kỳ 2\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\obj\Debug\QLBanThuoc.frmTimKiem.TenThuoc.resources
+D:\Study\College Stuff\Nam3\Kỳ 2\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\obj\Debug\QLBanThuoc.Properties.Resources.resources
+D:\Study\College Stuff\Nam3\Kỳ 2\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\obj\Debug\QLBanThuoc.csproj.GenerateResource.cache
+D:\Study\College Stuff\Nam3\Kỳ 2\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\obj\Debug\QLBanThuoc.exe.licenses
+D:\Study\College Stuff\Nam3\Kỳ 2\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\obj\Debug\QLBanThuoc.csproj.CoreCompileInputs.cache
+D:\Study\College Stuff\Nam3\Kỳ 2\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\obj\Debug\QLBanThuoc.exe
+D:\Study\College Stuff\Nam3\Kỳ 2\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\obj\Debug\QLBanThuoc.pdb
+D:\Study\College Stuff\Nam3\Kỳ 2\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\QLBanThuoc.exe.config
+D:\Study\College Stuff\Nam3\Kỳ 2\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\QLBanThuoc.exe
+D:\Study\College Stuff\Nam3\Kỳ 2\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\QLBanThuoc.pdb
+D:\Study\College Stuff\Nam3\Kỳ 2\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.Images.v19.1.dll
+D:\Study\College Stuff\Nam3\Kỳ 2\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraTreeList.v19.1.dll
+D:\Study\College Stuff\Nam3\Kỳ 2\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraRichEdit.v19.1.dll
+D:\Study\College Stuff\Nam3\Kỳ 2\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.DataAccess.v19.1.UI.dll
+D:\Study\College Stuff\Nam3\Kỳ 2\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraNavBar.v19.1.dll
+D:\Study\College Stuff\Nam3\Kỳ 2\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraCharts.v19.1.Wizard.dll
+D:\Study\College Stuff\Nam3\Kỳ 2\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraPivotGrid.v19.1.dll
+D:\Study\College Stuff\Nam3\Kỳ 2\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraCharts.v19.1.Extensions.dll
+D:\Study\College Stuff\Nam3\Kỳ 2\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraDiagram.v19.1.dll
+D:\Study\College Stuff\Nam3\Kỳ 2\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.Diagram.v19.1.Core.dll
+D:\Study\College Stuff\Nam3\Kỳ 2\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.Data.v19.1.xml
+D:\Study\College Stuff\Nam3\Kỳ 2\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.DataAccess.v19.1.xml
+D:\Study\College Stuff\Nam3\Kỳ 2\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.Office.v19.1.Core.xml
+D:\Study\College Stuff\Nam3\Kỳ 2\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.Pdf.v19.1.Core.xml
+D:\Study\College Stuff\Nam3\Kỳ 2\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.PivotGrid.v19.1.Core.xml
+D:\Study\College Stuff\Nam3\Kỳ 2\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.Printing.v19.1.Core.xml
+D:\Study\College Stuff\Nam3\Kỳ 2\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.RichEdit.v19.1.Core.xml
+D:\Study\College Stuff\Nam3\Kỳ 2\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.Utils.v19.1.xml
+D:\Study\College Stuff\Nam3\Kỳ 2\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.Utils.v19.1.UI.xml
+D:\Study\College Stuff\Nam3\Kỳ 2\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.Xpo.v19.1.xml
+D:\Study\College Stuff\Nam3\Kỳ 2\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraBars.v19.1.xml
+D:\Study\College Stuff\Nam3\Kỳ 2\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.Sparkline.v19.1.Core.xml
+D:\Study\College Stuff\Nam3\Kỳ 2\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraCharts.v19.1.xml
+D:\Study\College Stuff\Nam3\Kỳ 2\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraEditors.v19.1.xml
+D:\Study\College Stuff\Nam3\Kỳ 2\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraGauges.v19.1.Core.xml
+D:\Study\College Stuff\Nam3\Kỳ 2\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraGrid.v19.1.xml
+D:\Study\College Stuff\Nam3\Kỳ 2\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraLayout.v19.1.xml
+D:\Study\College Stuff\Nam3\Kỳ 2\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraPrinting.v19.1.xml
+D:\Study\College Stuff\Nam3\Kỳ 2\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraReports.v19.1.xml
+D:\Study\College Stuff\Nam3\Kỳ 2\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraReports.v19.1.Extensions.xml
+D:\Study\College Stuff\Nam3\Kỳ 2\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraVerticalGrid.v19.1.xml
+D:\Study\College Stuff\Nam3\Kỳ 2\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraTreeList.v19.1.xml
+D:\Study\College Stuff\Nam3\Kỳ 2\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraRichEdit.v19.1.xml
+D:\Study\College Stuff\Nam3\Kỳ 2\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.DataAccess.v19.1.UI.xml
+D:\Study\College Stuff\Nam3\Kỳ 2\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraNavBar.v19.1.xml
+D:\Study\College Stuff\Nam3\Kỳ 2\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraCharts.v19.1.Wizard.xml
+D:\Study\College Stuff\Nam3\Kỳ 2\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraPivotGrid.v19.1.xml
+D:\Study\College Stuff\Nam3\Kỳ 2\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraDiagram.v19.1.xml
+D:\Study\College Stuff\Nam3\Kỳ 2\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.Diagram.v19.1.Core.xml
+D:\Study\College Stuff\Nam3\Kỳ 2\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.Data.v19.1.resources.dll
+D:\Study\College Stuff\Nam3\Kỳ 2\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.Data.v19.1.resources.dll
+D:\Study\College Stuff\Nam3\Kỳ 2\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.Data.v19.1.resources.dll
+D:\Study\College Stuff\Nam3\Kỳ 2\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.Data.v19.1.resources.dll
+D:\Study\College Stuff\Nam3\Kỳ 2\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.DataAccess.v19.1.resources.dll
+D:\Study\College Stuff\Nam3\Kỳ 2\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.DataAccess.v19.1.resources.dll
+D:\Study\College Stuff\Nam3\Kỳ 2\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.DataAccess.v19.1.resources.dll
+D:\Study\College Stuff\Nam3\Kỳ 2\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.DataAccess.v19.1.resources.dll
+D:\Study\College Stuff\Nam3\Kỳ 2\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.Office.v19.1.Core.resources.dll
+D:\Study\College Stuff\Nam3\Kỳ 2\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.Office.v19.1.Core.resources.dll
+D:\Study\College Stuff\Nam3\Kỳ 2\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.Office.v19.1.Core.resources.dll
+D:\Study\College Stuff\Nam3\Kỳ 2\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.Office.v19.1.Core.resources.dll
+D:\Study\College Stuff\Nam3\Kỳ 2\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\Study\College Stuff\Nam3\Kỳ 2\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\Study\College Stuff\Nam3\Kỳ 2\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\Study\College Stuff\Nam3\Kỳ 2\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\Study\College Stuff\Nam3\Kỳ 2\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.PivotGrid.v19.1.Core.resources.dll
+D:\Study\College Stuff\Nam3\Kỳ 2\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.PivotGrid.v19.1.Core.resources.dll
+D:\Study\College Stuff\Nam3\Kỳ 2\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.PivotGrid.v19.1.Core.resources.dll
+D:\Study\College Stuff\Nam3\Kỳ 2\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.PivotGrid.v19.1.Core.resources.dll
+D:\Study\College Stuff\Nam3\Kỳ 2\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.Printing.v19.1.Core.resources.dll
+D:\Study\College Stuff\Nam3\Kỳ 2\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.Printing.v19.1.Core.resources.dll
+D:\Study\College Stuff\Nam3\Kỳ 2\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.Printing.v19.1.Core.resources.dll
+D:\Study\College Stuff\Nam3\Kỳ 2\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.Printing.v19.1.Core.resources.dll
+D:\Study\College Stuff\Nam3\Kỳ 2\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.RichEdit.v19.1.Core.resources.dll
+D:\Study\College Stuff\Nam3\Kỳ 2\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.RichEdit.v19.1.Core.resources.dll
+D:\Study\College Stuff\Nam3\Kỳ 2\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.RichEdit.v19.1.Core.resources.dll
+D:\Study\College Stuff\Nam3\Kỳ 2\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.RichEdit.v19.1.Core.resources.dll
+D:\Study\College Stuff\Nam3\Kỳ 2\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.Utils.v19.1.resources.dll
+D:\Study\College Stuff\Nam3\Kỳ 2\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.Utils.v19.1.resources.dll
+D:\Study\College Stuff\Nam3\Kỳ 2\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.Utils.v19.1.resources.dll
+D:\Study\College Stuff\Nam3\Kỳ 2\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.Utils.v19.1.resources.dll
+D:\Study\College Stuff\Nam3\Kỳ 2\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.Utils.v19.1.UI.resources.dll
+D:\Study\College Stuff\Nam3\Kỳ 2\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.Utils.v19.1.UI.resources.dll
+D:\Study\College Stuff\Nam3\Kỳ 2\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.Utils.v19.1.UI.resources.dll
+D:\Study\College Stuff\Nam3\Kỳ 2\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.Utils.v19.1.UI.resources.dll
+D:\Study\College Stuff\Nam3\Kỳ 2\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.Xpo.v19.1.resources.dll
+D:\Study\College Stuff\Nam3\Kỳ 2\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.Xpo.v19.1.resources.dll
+D:\Study\College Stuff\Nam3\Kỳ 2\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.Xpo.v19.1.resources.dll
+D:\Study\College Stuff\Nam3\Kỳ 2\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.Xpo.v19.1.resources.dll
+D:\Study\College Stuff\Nam3\Kỳ 2\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.XtraBars.v19.1.resources.dll
+D:\Study\College Stuff\Nam3\Kỳ 2\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.XtraBars.v19.1.resources.dll
+D:\Study\College Stuff\Nam3\Kỳ 2\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.XtraBars.v19.1.resources.dll
+D:\Study\College Stuff\Nam3\Kỳ 2\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.XtraBars.v19.1.resources.dll
+D:\Study\College Stuff\Nam3\Kỳ 2\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\Study\College Stuff\Nam3\Kỳ 2\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\Study\College Stuff\Nam3\Kỳ 2\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\Study\College Stuff\Nam3\Kỳ 2\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\Study\College Stuff\Nam3\Kỳ 2\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.XtraCharts.v19.1.resources.dll
+D:\Study\College Stuff\Nam3\Kỳ 2\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.XtraCharts.v19.1.resources.dll
+D:\Study\College Stuff\Nam3\Kỳ 2\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.XtraCharts.v19.1.resources.dll
+D:\Study\College Stuff\Nam3\Kỳ 2\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.XtraCharts.v19.1.resources.dll
+D:\Study\College Stuff\Nam3\Kỳ 2\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.XtraEditors.v19.1.resources.dll
+D:\Study\College Stuff\Nam3\Kỳ 2\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.XtraEditors.v19.1.resources.dll
+D:\Study\College Stuff\Nam3\Kỳ 2\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.XtraEditors.v19.1.resources.dll
+D:\Study\College Stuff\Nam3\Kỳ 2\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.XtraEditors.v19.1.resources.dll
+D:\Study\College Stuff\Nam3\Kỳ 2\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.XtraGauges.v19.1.Core.resources.dll
+D:\Study\College Stuff\Nam3\Kỳ 2\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.XtraGauges.v19.1.Core.resources.dll
+D:\Study\College Stuff\Nam3\Kỳ 2\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.XtraGauges.v19.1.Core.resources.dll
+D:\Study\College Stuff\Nam3\Kỳ 2\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.XtraGauges.v19.1.Core.resources.dll
+D:\Study\College Stuff\Nam3\Kỳ 2\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.XtraGrid.v19.1.resources.dll
+D:\Study\College Stuff\Nam3\Kỳ 2\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.XtraGrid.v19.1.resources.dll
+D:\Study\College Stuff\Nam3\Kỳ 2\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.XtraGrid.v19.1.resources.dll
+D:\Study\College Stuff\Nam3\Kỳ 2\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.XtraGrid.v19.1.resources.dll
+D:\Study\College Stuff\Nam3\Kỳ 2\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.XtraLayout.v19.1.resources.dll
+D:\Study\College Stuff\Nam3\Kỳ 2\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.XtraLayout.v19.1.resources.dll
+D:\Study\College Stuff\Nam3\Kỳ 2\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.XtraLayout.v19.1.resources.dll
+D:\Study\College Stuff\Nam3\Kỳ 2\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.XtraLayout.v19.1.resources.dll
+D:\Study\College Stuff\Nam3\Kỳ 2\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.XtraPrinting.v19.1.resources.dll
+D:\Study\College Stuff\Nam3\Kỳ 2\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.XtraPrinting.v19.1.resources.dll
+D:\Study\College Stuff\Nam3\Kỳ 2\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.XtraPrinting.v19.1.resources.dll
+D:\Study\College Stuff\Nam3\Kỳ 2\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.XtraPrinting.v19.1.resources.dll
+D:\Study\College Stuff\Nam3\Kỳ 2\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.XtraReports.v19.1.resources.dll
+D:\Study\College Stuff\Nam3\Kỳ 2\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.XtraReports.v19.1.resources.dll
+D:\Study\College Stuff\Nam3\Kỳ 2\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.XtraReports.v19.1.resources.dll
+D:\Study\College Stuff\Nam3\Kỳ 2\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.XtraReports.v19.1.resources.dll
+D:\Study\College Stuff\Nam3\Kỳ 2\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.XtraReports.v19.1.Extensions.resources.dll
+D:\Study\College Stuff\Nam3\Kỳ 2\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.XtraReports.v19.1.Extensions.resources.dll
+D:\Study\College Stuff\Nam3\Kỳ 2\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.XtraReports.v19.1.Extensions.resources.dll
+D:\Study\College Stuff\Nam3\Kỳ 2\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.XtraReports.v19.1.Extensions.resources.dll
+D:\Study\College Stuff\Nam3\Kỳ 2\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+D:\Study\College Stuff\Nam3\Kỳ 2\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+D:\Study\College Stuff\Nam3\Kỳ 2\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+D:\Study\College Stuff\Nam3\Kỳ 2\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+D:\Study\College Stuff\Nam3\Kỳ 2\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.XtraTreeList.v19.1.resources.dll
+D:\Study\College Stuff\Nam3\Kỳ 2\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.XtraTreeList.v19.1.resources.dll
+D:\Study\College Stuff\Nam3\Kỳ 2\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.XtraTreeList.v19.1.resources.dll
+D:\Study\College Stuff\Nam3\Kỳ 2\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.XtraTreeList.v19.1.resources.dll
+D:\Study\College Stuff\Nam3\Kỳ 2\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.XtraRichEdit.v19.1.resources.dll
+D:\Study\College Stuff\Nam3\Kỳ 2\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.XtraRichEdit.v19.1.resources.dll
+D:\Study\College Stuff\Nam3\Kỳ 2\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.XtraRichEdit.v19.1.resources.dll
+D:\Study\College Stuff\Nam3\Kỳ 2\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.XtraRichEdit.v19.1.resources.dll
+D:\Study\College Stuff\Nam3\Kỳ 2\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.DataAccess.v19.1.UI.resources.dll
+D:\Study\College Stuff\Nam3\Kỳ 2\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.DataAccess.v19.1.UI.resources.dll
+D:\Study\College Stuff\Nam3\Kỳ 2\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.DataAccess.v19.1.UI.resources.dll
+D:\Study\College Stuff\Nam3\Kỳ 2\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.DataAccess.v19.1.UI.resources.dll
+D:\Study\College Stuff\Nam3\Kỳ 2\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.XtraNavBar.v19.1.resources.dll
+D:\Study\College Stuff\Nam3\Kỳ 2\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.XtraNavBar.v19.1.resources.dll
+D:\Study\College Stuff\Nam3\Kỳ 2\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.XtraNavBar.v19.1.resources.dll
+D:\Study\College Stuff\Nam3\Kỳ 2\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.XtraNavBar.v19.1.resources.dll
+D:\Study\College Stuff\Nam3\Kỳ 2\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+D:\Study\College Stuff\Nam3\Kỳ 2\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+D:\Study\College Stuff\Nam3\Kỳ 2\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+D:\Study\College Stuff\Nam3\Kỳ 2\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+D:\Study\College Stuff\Nam3\Kỳ 2\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.XtraPivotGrid.v19.1.resources.dll
+D:\Study\College Stuff\Nam3\Kỳ 2\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.XtraPivotGrid.v19.1.resources.dll
+D:\Study\College Stuff\Nam3\Kỳ 2\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.XtraPivotGrid.v19.1.resources.dll
+D:\Study\College Stuff\Nam3\Kỳ 2\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.XtraPivotGrid.v19.1.resources.dll
+D:\Study\College Stuff\Nam3\Kỳ 2\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.Diagram.v19.1.Core.resources.dll
+D:\Study\College Stuff\Nam3\Kỳ 2\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.Diagram.v19.1.Core.resources.dll
+D:\Study\College Stuff\Nam3\Kỳ 2\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.Diagram.v19.1.Core.resources.dll
+D:\Study\College Stuff\Nam3\Kỳ 2\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.Diagram.v19.1.Core.resources.dll
+D:\Study\College Stuff\Nam3\Kỳ 2\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\obj\Debug\QLBanThuoc.csproj.CopyComplete
+D:\Study\College Stuff\Nam3\Kỳ 2\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\obj\Debug\QLBanThuoc.frmTimKiem.ThapCao.resources
+C:\Users\vietm\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\obj\Debug\QLBanThuoc.frmTimKiem.ThapCao.resources
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\QLBanThuoc.exe.config
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\QLBanThuoc.exe
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\QLBanThuoc.pdb
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.Images.v19.1.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraTreeList.v19.1.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraRichEdit.v19.1.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.DataAccess.v19.1.UI.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraNavBar.v19.1.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraCharts.v19.1.Wizard.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraPivotGrid.v19.1.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraCharts.v19.1.Extensions.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraDiagram.v19.1.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.Diagram.v19.1.Core.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.Data.v19.1.xml
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.DataAccess.v19.1.xml
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.Office.v19.1.Core.xml
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.Pdf.v19.1.Core.xml
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.PivotGrid.v19.1.Core.xml
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.Printing.v19.1.Core.xml
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.RichEdit.v19.1.Core.xml
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.Utils.v19.1.xml
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.Utils.v19.1.UI.xml
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.Xpo.v19.1.xml
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraBars.v19.1.xml
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.Sparkline.v19.1.Core.xml
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraCharts.v19.1.xml
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraEditors.v19.1.xml
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraGauges.v19.1.Core.xml
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraGrid.v19.1.xml
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraLayout.v19.1.xml
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraPrinting.v19.1.xml
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraReports.v19.1.xml
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraReports.v19.1.Extensions.xml
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraVerticalGrid.v19.1.xml
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraTreeList.v19.1.xml
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraRichEdit.v19.1.xml
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.DataAccess.v19.1.UI.xml
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraNavBar.v19.1.xml
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraCharts.v19.1.Wizard.xml
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraPivotGrid.v19.1.xml
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraDiagram.v19.1.xml
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.Diagram.v19.1.Core.xml
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.Data.v19.1.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.Data.v19.1.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.Data.v19.1.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.Data.v19.1.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.DataAccess.v19.1.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.DataAccess.v19.1.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.DataAccess.v19.1.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.DataAccess.v19.1.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.Office.v19.1.Core.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.Office.v19.1.Core.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.Office.v19.1.Core.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.Office.v19.1.Core.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.PivotGrid.v19.1.Core.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.PivotGrid.v19.1.Core.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.PivotGrid.v19.1.Core.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.PivotGrid.v19.1.Core.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.Printing.v19.1.Core.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.Printing.v19.1.Core.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.Printing.v19.1.Core.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.Printing.v19.1.Core.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.RichEdit.v19.1.Core.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.RichEdit.v19.1.Core.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.RichEdit.v19.1.Core.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.RichEdit.v19.1.Core.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.Utils.v19.1.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.Utils.v19.1.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.Utils.v19.1.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.Utils.v19.1.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.Utils.v19.1.UI.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.Utils.v19.1.UI.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.Utils.v19.1.UI.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.Utils.v19.1.UI.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.Xpo.v19.1.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.Xpo.v19.1.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.Xpo.v19.1.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.Xpo.v19.1.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.XtraBars.v19.1.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.XtraBars.v19.1.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.XtraBars.v19.1.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.XtraBars.v19.1.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.XtraCharts.v19.1.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.XtraCharts.v19.1.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.XtraCharts.v19.1.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.XtraCharts.v19.1.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.XtraEditors.v19.1.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.XtraEditors.v19.1.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.XtraEditors.v19.1.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.XtraEditors.v19.1.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.XtraGauges.v19.1.Core.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.XtraGauges.v19.1.Core.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.XtraGauges.v19.1.Core.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.XtraGauges.v19.1.Core.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.XtraGrid.v19.1.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.XtraGrid.v19.1.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.XtraGrid.v19.1.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.XtraGrid.v19.1.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.XtraLayout.v19.1.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.XtraLayout.v19.1.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.XtraLayout.v19.1.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.XtraLayout.v19.1.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.XtraPrinting.v19.1.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.XtraPrinting.v19.1.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.XtraPrinting.v19.1.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.XtraPrinting.v19.1.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.XtraReports.v19.1.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.XtraReports.v19.1.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.XtraReports.v19.1.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.XtraReports.v19.1.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.XtraReports.v19.1.Extensions.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.XtraReports.v19.1.Extensions.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.XtraReports.v19.1.Extensions.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.XtraReports.v19.1.Extensions.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.XtraTreeList.v19.1.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.XtraTreeList.v19.1.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.XtraTreeList.v19.1.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.XtraTreeList.v19.1.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.XtraRichEdit.v19.1.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.XtraRichEdit.v19.1.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.XtraRichEdit.v19.1.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.XtraRichEdit.v19.1.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.DataAccess.v19.1.UI.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.DataAccess.v19.1.UI.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.DataAccess.v19.1.UI.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.DataAccess.v19.1.UI.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.XtraNavBar.v19.1.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.XtraNavBar.v19.1.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.XtraNavBar.v19.1.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.XtraNavBar.v19.1.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.XtraPivotGrid.v19.1.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.XtraPivotGrid.v19.1.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.XtraPivotGrid.v19.1.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.XtraPivotGrid.v19.1.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.Diagram.v19.1.Core.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.Diagram.v19.1.Core.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.Diagram.v19.1.Core.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.Diagram.v19.1.Core.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\obj\Debug\QLBanThuoc.csprojAssemblyReference.cache
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\obj\Debug\QLBanThuoc.BCTK.SoLuongTon.resources
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\obj\Debug\QLBanThuoc.BCTK.ThuocBanRa.resources
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\obj\Debug\QLBanThuoc.BCTK.ThuocHetHan.resources
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\obj\Debug\QLBanThuoc.BCTK.ThuocNhap.resources
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\obj\Debug\QLBanThuoc.Data.frmConnection.resources
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\obj\Debug\QLBanThuoc.Data.XtraForm1.resources
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\obj\Debug\QLBanThuoc.Form1.resources
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\obj\Debug\QLBanThuoc.frmNhaCungCap.NhaCungCap.resources
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\obj\Debug\QLBanThuoc.frmQuanLyThuoc.frmDanhSach.resources
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\obj\Debug\QLBanThuoc.frmThongKe.DoanhThu.resources
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\obj\Debug\QLBanThuoc.frmTimKiem.TenThuoc.resources
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\obj\Debug\QLBanThuoc.frmTimKiem.ThapCao.resources
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\obj\Debug\QLBanThuoc.Properties.Resources.resources
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\obj\Debug\QLBanThuoc.csproj.GenerateResource.cache
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\obj\Debug\QLBanThuoc.exe.licenses
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\obj\Debug\QLBanThuoc.csproj.CopyComplete
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\obj\Debug\QLBanThuoc.exe
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\obj\Debug\QLBanThuoc.pdb
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\obj\Debug\QLBanThuoc.frmQuanLyThuoc.frmBanThuoc.resources
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\obj\Debug\QLBanThuoc.frmQuanLyNguoiDung.frmNhapThuoc.resources
+D:\Project\C#\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\QLBanThuoc.exe.config
+D:\Project\C#\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\QLBanThuoc.exe
+D:\Project\C#\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\QLBanThuoc.pdb
+D:\Project\C#\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.Images.v19.1.dll
+D:\Project\C#\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraTreeList.v19.1.dll
+D:\Project\C#\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraRichEdit.v19.1.dll
+D:\Project\C#\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.DataAccess.v19.1.UI.dll
+D:\Project\C#\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraNavBar.v19.1.dll
+D:\Project\C#\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraCharts.v19.1.Wizard.dll
+D:\Project\C#\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraPivotGrid.v19.1.dll
+D:\Project\C#\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraCharts.v19.1.Extensions.dll
+D:\Project\C#\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraDiagram.v19.1.dll
+D:\Project\C#\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.Diagram.v19.1.Core.dll
+D:\Project\C#\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.Data.v19.1.xml
+D:\Project\C#\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.DataAccess.v19.1.xml
+D:\Project\C#\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.Office.v19.1.Core.xml
+D:\Project\C#\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.Pdf.v19.1.Core.xml
+D:\Project\C#\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.PivotGrid.v19.1.Core.xml
+D:\Project\C#\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.Printing.v19.1.Core.xml
+D:\Project\C#\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.RichEdit.v19.1.Core.xml
+D:\Project\C#\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.Utils.v19.1.xml
+D:\Project\C#\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.Utils.v19.1.UI.xml
+D:\Project\C#\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.Xpo.v19.1.xml
+D:\Project\C#\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraBars.v19.1.xml
+D:\Project\C#\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.Sparkline.v19.1.Core.xml
+D:\Project\C#\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraCharts.v19.1.xml
+D:\Project\C#\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraEditors.v19.1.xml
+D:\Project\C#\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraGauges.v19.1.Core.xml
+D:\Project\C#\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraGrid.v19.1.xml
+D:\Project\C#\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraLayout.v19.1.xml
+D:\Project\C#\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraPrinting.v19.1.xml
+D:\Project\C#\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraReports.v19.1.xml
+D:\Project\C#\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraReports.v19.1.Extensions.xml
+D:\Project\C#\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraVerticalGrid.v19.1.xml
+D:\Project\C#\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraTreeList.v19.1.xml
+D:\Project\C#\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraRichEdit.v19.1.xml
+D:\Project\C#\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.DataAccess.v19.1.UI.xml
+D:\Project\C#\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraNavBar.v19.1.xml
+D:\Project\C#\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraCharts.v19.1.Wizard.xml
+D:\Project\C#\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraPivotGrid.v19.1.xml
+D:\Project\C#\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraDiagram.v19.1.xml
+D:\Project\C#\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.Diagram.v19.1.Core.xml
+D:\Project\C#\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.Data.v19.1.resources.dll
+D:\Project\C#\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.Data.v19.1.resources.dll
+D:\Project\C#\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.Data.v19.1.resources.dll
+D:\Project\C#\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.Data.v19.1.resources.dll
+D:\Project\C#\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.DataAccess.v19.1.resources.dll
+D:\Project\C#\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.DataAccess.v19.1.resources.dll
+D:\Project\C#\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.DataAccess.v19.1.resources.dll
+D:\Project\C#\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.DataAccess.v19.1.resources.dll
+D:\Project\C#\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.Office.v19.1.Core.resources.dll
+D:\Project\C#\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.Office.v19.1.Core.resources.dll
+D:\Project\C#\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.Office.v19.1.Core.resources.dll
+D:\Project\C#\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.Office.v19.1.Core.resources.dll
+D:\Project\C#\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\Project\C#\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\Project\C#\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\Project\C#\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\Project\C#\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.PivotGrid.v19.1.Core.resources.dll
+D:\Project\C#\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.PivotGrid.v19.1.Core.resources.dll
+D:\Project\C#\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.PivotGrid.v19.1.Core.resources.dll
+D:\Project\C#\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.PivotGrid.v19.1.Core.resources.dll
+D:\Project\C#\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.Printing.v19.1.Core.resources.dll
+D:\Project\C#\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.Printing.v19.1.Core.resources.dll
+D:\Project\C#\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.Printing.v19.1.Core.resources.dll
+D:\Project\C#\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.Printing.v19.1.Core.resources.dll
+D:\Project\C#\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.RichEdit.v19.1.Core.resources.dll
+D:\Project\C#\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.RichEdit.v19.1.Core.resources.dll
+D:\Project\C#\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.RichEdit.v19.1.Core.resources.dll
+D:\Project\C#\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.RichEdit.v19.1.Core.resources.dll
+D:\Project\C#\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.Utils.v19.1.resources.dll
+D:\Project\C#\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.Utils.v19.1.resources.dll
+D:\Project\C#\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.Utils.v19.1.resources.dll
+D:\Project\C#\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.Utils.v19.1.resources.dll
+D:\Project\C#\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.Utils.v19.1.UI.resources.dll
+D:\Project\C#\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.Utils.v19.1.UI.resources.dll
+D:\Project\C#\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.Utils.v19.1.UI.resources.dll
+D:\Project\C#\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.Utils.v19.1.UI.resources.dll
+D:\Project\C#\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.Xpo.v19.1.resources.dll
+D:\Project\C#\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.Xpo.v19.1.resources.dll
+D:\Project\C#\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.Xpo.v19.1.resources.dll
+D:\Project\C#\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.Xpo.v19.1.resources.dll
+D:\Project\C#\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.XtraBars.v19.1.resources.dll
+D:\Project\C#\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.XtraBars.v19.1.resources.dll
+D:\Project\C#\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.XtraBars.v19.1.resources.dll
+D:\Project\C#\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.XtraBars.v19.1.resources.dll
+D:\Project\C#\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\Project\C#\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\Project\C#\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\Project\C#\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\Project\C#\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.XtraCharts.v19.1.resources.dll
+D:\Project\C#\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.XtraCharts.v19.1.resources.dll
+D:\Project\C#\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.XtraCharts.v19.1.resources.dll
+D:\Project\C#\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.XtraCharts.v19.1.resources.dll
+D:\Project\C#\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.XtraEditors.v19.1.resources.dll
+D:\Project\C#\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.XtraEditors.v19.1.resources.dll
+D:\Project\C#\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.XtraEditors.v19.1.resources.dll
+D:\Project\C#\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.XtraEditors.v19.1.resources.dll
+D:\Project\C#\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.XtraGauges.v19.1.Core.resources.dll
+D:\Project\C#\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.XtraGauges.v19.1.Core.resources.dll
+D:\Project\C#\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.XtraGauges.v19.1.Core.resources.dll
+D:\Project\C#\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.XtraGauges.v19.1.Core.resources.dll
+D:\Project\C#\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.XtraGrid.v19.1.resources.dll
+D:\Project\C#\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.XtraGrid.v19.1.resources.dll
+D:\Project\C#\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.XtraGrid.v19.1.resources.dll
+D:\Project\C#\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.XtraGrid.v19.1.resources.dll
+D:\Project\C#\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.XtraLayout.v19.1.resources.dll
+D:\Project\C#\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.XtraLayout.v19.1.resources.dll
+D:\Project\C#\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.XtraLayout.v19.1.resources.dll
+D:\Project\C#\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.XtraLayout.v19.1.resources.dll
+D:\Project\C#\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.XtraPrinting.v19.1.resources.dll
+D:\Project\C#\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.XtraPrinting.v19.1.resources.dll
+D:\Project\C#\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.XtraPrinting.v19.1.resources.dll
+D:\Project\C#\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.XtraPrinting.v19.1.resources.dll
+D:\Project\C#\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.XtraReports.v19.1.resources.dll
+D:\Project\C#\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.XtraReports.v19.1.resources.dll
+D:\Project\C#\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.XtraReports.v19.1.resources.dll
+D:\Project\C#\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.XtraReports.v19.1.resources.dll
+D:\Project\C#\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.XtraReports.v19.1.Extensions.resources.dll
+D:\Project\C#\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.XtraReports.v19.1.Extensions.resources.dll
+D:\Project\C#\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.XtraReports.v19.1.Extensions.resources.dll
+D:\Project\C#\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.XtraReports.v19.1.Extensions.resources.dll
+D:\Project\C#\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+D:\Project\C#\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+D:\Project\C#\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+D:\Project\C#\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+D:\Project\C#\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.XtraTreeList.v19.1.resources.dll
+D:\Project\C#\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.XtraTreeList.v19.1.resources.dll
+D:\Project\C#\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.XtraTreeList.v19.1.resources.dll
+D:\Project\C#\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.XtraTreeList.v19.1.resources.dll
+D:\Project\C#\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.XtraRichEdit.v19.1.resources.dll
+D:\Project\C#\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.XtraRichEdit.v19.1.resources.dll
+D:\Project\C#\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.XtraRichEdit.v19.1.resources.dll
+D:\Project\C#\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.XtraRichEdit.v19.1.resources.dll
+D:\Project\C#\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.DataAccess.v19.1.UI.resources.dll
+D:\Project\C#\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.DataAccess.v19.1.UI.resources.dll
+D:\Project\C#\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.DataAccess.v19.1.UI.resources.dll
+D:\Project\C#\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.DataAccess.v19.1.UI.resources.dll
+D:\Project\C#\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.XtraNavBar.v19.1.resources.dll
+D:\Project\C#\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.XtraNavBar.v19.1.resources.dll
+D:\Project\C#\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.XtraNavBar.v19.1.resources.dll
+D:\Project\C#\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.XtraNavBar.v19.1.resources.dll
+D:\Project\C#\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+D:\Project\C#\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+D:\Project\C#\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+D:\Project\C#\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+D:\Project\C#\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.XtraPivotGrid.v19.1.resources.dll
+D:\Project\C#\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.XtraPivotGrid.v19.1.resources.dll
+D:\Project\C#\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.XtraPivotGrid.v19.1.resources.dll
+D:\Project\C#\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.XtraPivotGrid.v19.1.resources.dll
+D:\Project\C#\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.Diagram.v19.1.Core.resources.dll
+D:\Project\C#\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.Diagram.v19.1.Core.resources.dll
+D:\Project\C#\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.Diagram.v19.1.Core.resources.dll
+D:\Project\C#\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.Diagram.v19.1.Core.resources.dll
+D:\Project\C#\QLBanThuoc\QLBanThuoc\QLBanThuoc\obj\Debug\QLBanThuoc.csprojAssemblyReference.cache
+D:\Project\C#\QLBanThuoc\QLBanThuoc\QLBanThuoc\obj\Debug\QLBanThuoc.BCTK.SoLuongTon.resources
+D:\Project\C#\QLBanThuoc\QLBanThuoc\QLBanThuoc\obj\Debug\QLBanThuoc.BCTK.ThuocBanRa.resources
+D:\Project\C#\QLBanThuoc\QLBanThuoc\QLBanThuoc\obj\Debug\QLBanThuoc.BCTK.ThuocHetHan.resources
+D:\Project\C#\QLBanThuoc\QLBanThuoc\QLBanThuoc\obj\Debug\QLBanThuoc.BCTK.ThuocNhap.resources
+D:\Project\C#\QLBanThuoc\QLBanThuoc\QLBanThuoc\obj\Debug\QLBanThuoc.Data.frmConnection.resources
+D:\Project\C#\QLBanThuoc\QLBanThuoc\QLBanThuoc\obj\Debug\QLBanThuoc.Data.XtraForm1.resources
+D:\Project\C#\QLBanThuoc\QLBanThuoc\QLBanThuoc\obj\Debug\QLBanThuoc.Form1.resources
+D:\Project\C#\QLBanThuoc\QLBanThuoc\QLBanThuoc\obj\Debug\QLBanThuoc.frmNhaCungCap.NhaCungCap.resources
+D:\Project\C#\QLBanThuoc\QLBanThuoc\QLBanThuoc\obj\Debug\QLBanThuoc.frmQuanLyThuoc.frmBanThuoc.resources
+D:\Project\C#\QLBanThuoc\QLBanThuoc\QLBanThuoc\obj\Debug\QLBanThuoc.frmQuanLyThuoc.frmDanhSach.resources
+D:\Project\C#\QLBanThuoc\QLBanThuoc\QLBanThuoc\obj\Debug\QLBanThuoc.frmQuanLyNguoiDung.frmNhapThuoc.resources
+D:\Project\C#\QLBanThuoc\QLBanThuoc\QLBanThuoc\obj\Debug\QLBanThuoc.frmThongKe.DoanhThu.resources
+D:\Project\C#\QLBanThuoc\QLBanThuoc\QLBanThuoc\obj\Debug\QLBanThuoc.frmTimKiem.TenThuoc.resources
+D:\Project\C#\QLBanThuoc\QLBanThuoc\QLBanThuoc\obj\Debug\QLBanThuoc.frmTimKiem.ThapCao.resources
+D:\Project\C#\QLBanThuoc\QLBanThuoc\QLBanThuoc\obj\Debug\QLBanThuoc.Properties.Resources.resources
+D:\Project\C#\QLBanThuoc\QLBanThuoc\QLBanThuoc\obj\Debug\QLBanThuoc.csproj.GenerateResource.cache
+D:\Project\C#\QLBanThuoc\QLBanThuoc\QLBanThuoc\obj\Debug\QLBanThuoc.exe.licenses
+D:\Project\C#\QLBanThuoc\QLBanThuoc\QLBanThuoc\obj\Debug\QLBanThuoc.csproj.CopyComplete
+D:\Project\C#\QLBanThuoc\QLBanThuoc\QLBanThuoc\obj\Debug\QLBanThuoc.exe
+D:\Project\C#\QLBanThuoc\QLBanThuoc\QLBanThuoc\obj\Debug\QLBanThuoc.pdb
+C:\Users\vietm\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\obj\Debug\QLBanThuoc.frmQuanLyThuoc.frmBanThuoc.resources
+C:\Users\vietm\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\obj\Debug\QLBanThuoc.frmQuanLyNguoiDung.frmNhapThuoc.resources
+D:\Study\College Stuff\Nam3\Kỳ 2\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\obj\Debug\QLBanThuoc.frmQuanLyThuoc.frmBanThuoc.resources
+D:\Study\College Stuff\Nam3\Kỳ 2\Thực tập CSDL\QLBanThuoc\QLBanThuoc\QLBanThuoc\obj\Debug\QLBanThuoc.frmQuanLyNguoiDung.frmNhapThuoc.resources
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\New folder\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\QLBanThuoc.exe.config
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\New folder\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\QLBanThuoc.exe
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\New folder\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\QLBanThuoc.pdb
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\New folder\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.Images.v19.1.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\New folder\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraTreeList.v19.1.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\New folder\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraRichEdit.v19.1.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\New folder\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.DataAccess.v19.1.UI.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\New folder\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraNavBar.v19.1.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\New folder\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraCharts.v19.1.Wizard.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\New folder\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraPivotGrid.v19.1.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\New folder\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraCharts.v19.1.Extensions.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\New folder\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraDiagram.v19.1.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\New folder\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.Diagram.v19.1.Core.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\New folder\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.Data.v19.1.xml
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\New folder\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.DataAccess.v19.1.xml
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\New folder\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.Office.v19.1.Core.xml
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\New folder\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.Pdf.v19.1.Core.xml
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\New folder\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.PivotGrid.v19.1.Core.xml
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\New folder\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.Printing.v19.1.Core.xml
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\New folder\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.RichEdit.v19.1.Core.xml
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\New folder\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.Utils.v19.1.xml
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\New folder\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.Utils.v19.1.UI.xml
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\New folder\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.Xpo.v19.1.xml
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\New folder\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraBars.v19.1.xml
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\New folder\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.Sparkline.v19.1.Core.xml
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\New folder\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraCharts.v19.1.xml
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\New folder\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraEditors.v19.1.xml
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\New folder\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraGauges.v19.1.Core.xml
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\New folder\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraGrid.v19.1.xml
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\New folder\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraLayout.v19.1.xml
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\New folder\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraPrinting.v19.1.xml
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\New folder\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraReports.v19.1.xml
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\New folder\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraReports.v19.1.Extensions.xml
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\New folder\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraVerticalGrid.v19.1.xml
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\New folder\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraTreeList.v19.1.xml
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\New folder\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraRichEdit.v19.1.xml
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\New folder\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.DataAccess.v19.1.UI.xml
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\New folder\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraNavBar.v19.1.xml
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\New folder\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraCharts.v19.1.Wizard.xml
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\New folder\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraPivotGrid.v19.1.xml
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\New folder\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraDiagram.v19.1.xml
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\New folder\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.Diagram.v19.1.Core.xml
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\New folder\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.Data.v19.1.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\New folder\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.Data.v19.1.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\New folder\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.Data.v19.1.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\New folder\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.Data.v19.1.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\New folder\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.DataAccess.v19.1.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\New folder\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.DataAccess.v19.1.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\New folder\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.DataAccess.v19.1.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\New folder\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.DataAccess.v19.1.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\New folder\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.Office.v19.1.Core.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\New folder\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.Office.v19.1.Core.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\New folder\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.Office.v19.1.Core.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\New folder\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.Office.v19.1.Core.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\New folder\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\New folder\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\New folder\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\New folder\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\New folder\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.PivotGrid.v19.1.Core.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\New folder\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.PivotGrid.v19.1.Core.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\New folder\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.PivotGrid.v19.1.Core.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\New folder\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.PivotGrid.v19.1.Core.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\New folder\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.Printing.v19.1.Core.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\New folder\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.Printing.v19.1.Core.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\New folder\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.Printing.v19.1.Core.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\New folder\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.Printing.v19.1.Core.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\New folder\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.RichEdit.v19.1.Core.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\New folder\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.RichEdit.v19.1.Core.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\New folder\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.RichEdit.v19.1.Core.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\New folder\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.RichEdit.v19.1.Core.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\New folder\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.Utils.v19.1.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\New folder\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.Utils.v19.1.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\New folder\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.Utils.v19.1.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\New folder\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.Utils.v19.1.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\New folder\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.Utils.v19.1.UI.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\New folder\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.Utils.v19.1.UI.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\New folder\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.Utils.v19.1.UI.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\New folder\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.Utils.v19.1.UI.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\New folder\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.Xpo.v19.1.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\New folder\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.Xpo.v19.1.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\New folder\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.Xpo.v19.1.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\New folder\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.Xpo.v19.1.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\New folder\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.XtraBars.v19.1.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\New folder\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.XtraBars.v19.1.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\New folder\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.XtraBars.v19.1.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\New folder\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.XtraBars.v19.1.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\New folder\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\New folder\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\New folder\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\New folder\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\New folder\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.XtraCharts.v19.1.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\New folder\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.XtraCharts.v19.1.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\New folder\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.XtraCharts.v19.1.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\New folder\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.XtraCharts.v19.1.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\New folder\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.XtraEditors.v19.1.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\New folder\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.XtraEditors.v19.1.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\New folder\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.XtraEditors.v19.1.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\New folder\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.XtraEditors.v19.1.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\New folder\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.XtraGauges.v19.1.Core.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\New folder\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.XtraGauges.v19.1.Core.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\New folder\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.XtraGauges.v19.1.Core.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\New folder\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.XtraGauges.v19.1.Core.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\New folder\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.XtraGrid.v19.1.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\New folder\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.XtraGrid.v19.1.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\New folder\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.XtraGrid.v19.1.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\New folder\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.XtraGrid.v19.1.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\New folder\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.XtraLayout.v19.1.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\New folder\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.XtraLayout.v19.1.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\New folder\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.XtraLayout.v19.1.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\New folder\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.XtraLayout.v19.1.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\New folder\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.XtraPrinting.v19.1.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\New folder\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.XtraPrinting.v19.1.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\New folder\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.XtraPrinting.v19.1.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\New folder\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.XtraPrinting.v19.1.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\New folder\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.XtraReports.v19.1.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\New folder\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.XtraReports.v19.1.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\New folder\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.XtraReports.v19.1.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\New folder\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.XtraReports.v19.1.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\New folder\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.XtraReports.v19.1.Extensions.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\New folder\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.XtraReports.v19.1.Extensions.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\New folder\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.XtraReports.v19.1.Extensions.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\New folder\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.XtraReports.v19.1.Extensions.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\New folder\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\New folder\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\New folder\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\New folder\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\New folder\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.XtraTreeList.v19.1.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\New folder\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.XtraTreeList.v19.1.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\New folder\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.XtraTreeList.v19.1.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\New folder\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.XtraTreeList.v19.1.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\New folder\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.XtraRichEdit.v19.1.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\New folder\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.XtraRichEdit.v19.1.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\New folder\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.XtraRichEdit.v19.1.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\New folder\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.XtraRichEdit.v19.1.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\New folder\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.DataAccess.v19.1.UI.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\New folder\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.DataAccess.v19.1.UI.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\New folder\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.DataAccess.v19.1.UI.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\New folder\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.DataAccess.v19.1.UI.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\New folder\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.XtraNavBar.v19.1.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\New folder\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.XtraNavBar.v19.1.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\New folder\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.XtraNavBar.v19.1.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\New folder\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.XtraNavBar.v19.1.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\New folder\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\New folder\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\New folder\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\New folder\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\New folder\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.XtraPivotGrid.v19.1.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\New folder\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.XtraPivotGrid.v19.1.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\New folder\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.XtraPivotGrid.v19.1.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\New folder\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.XtraPivotGrid.v19.1.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\New folder\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.Diagram.v19.1.Core.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\New folder\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.Diagram.v19.1.Core.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\New folder\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.Diagram.v19.1.Core.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\New folder\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.Diagram.v19.1.Core.resources.dll
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\New folder\QLBanThuoc\QLBanThuoc\QLBanThuoc\obj\Debug\QLBanThuoc.csprojAssemblyReference.cache
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\New folder\QLBanThuoc\QLBanThuoc\QLBanThuoc\obj\Debug\QLBanThuoc.BCTK.SoLuongTon.resources
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\New folder\QLBanThuoc\QLBanThuoc\QLBanThuoc\obj\Debug\QLBanThuoc.BCTK.ThuocBanRa.resources
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\New folder\QLBanThuoc\QLBanThuoc\QLBanThuoc\obj\Debug\QLBanThuoc.BCTK.ThuocHetHan.resources
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\New folder\QLBanThuoc\QLBanThuoc\QLBanThuoc\obj\Debug\QLBanThuoc.BCTK.ThuocNhap.resources
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\New folder\QLBanThuoc\QLBanThuoc\QLBanThuoc\obj\Debug\QLBanThuoc.Data.frmConnection.resources
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\New folder\QLBanThuoc\QLBanThuoc\QLBanThuoc\obj\Debug\QLBanThuoc.Data.XtraForm1.resources
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\New folder\QLBanThuoc\QLBanThuoc\QLBanThuoc\obj\Debug\QLBanThuoc.Form1.resources
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\New folder\QLBanThuoc\QLBanThuoc\QLBanThuoc\obj\Debug\QLBanThuoc.frmNhaCungCap.NhaCungCap.resources
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\New folder\QLBanThuoc\QLBanThuoc\QLBanThuoc\obj\Debug\QLBanThuoc.frmQuanLyThuoc.frmBanThuoc.resources
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\New folder\QLBanThuoc\QLBanThuoc\QLBanThuoc\obj\Debug\QLBanThuoc.frmQuanLyThuoc.frmDanhSach.resources
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\New folder\QLBanThuoc\QLBanThuoc\QLBanThuoc\obj\Debug\QLBanThuoc.frmQuanLyNguoiDung.frmNhapThuoc.resources
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\New folder\QLBanThuoc\QLBanThuoc\QLBanThuoc\obj\Debug\QLBanThuoc.frmThongKe.DoanhThu.resources
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\New folder\QLBanThuoc\QLBanThuoc\QLBanThuoc\obj\Debug\QLBanThuoc.frmTimKiem.TenThuoc.resources
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\New folder\QLBanThuoc\QLBanThuoc\QLBanThuoc\obj\Debug\QLBanThuoc.frmTimKiem.ThapCao.resources
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\New folder\QLBanThuoc\QLBanThuoc\QLBanThuoc\obj\Debug\QLBanThuoc.Properties.Resources.resources
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\New folder\QLBanThuoc\QLBanThuoc\QLBanThuoc\obj\Debug\QLBanThuoc.csproj.GenerateResource.cache
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\New folder\QLBanThuoc\QLBanThuoc\QLBanThuoc\obj\Debug\QLBanThuoc.exe.licenses
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\New folder\QLBanThuoc\QLBanThuoc\QLBanThuoc\obj\Debug\QLBanThuoc.csproj.CopyComplete
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\New folder\QLBanThuoc\QLBanThuoc\QLBanThuoc\obj\Debug\QLBanThuoc.exe
+D:\Môn học\Kỳ II năm 3\Thực tập CSDL\New folder\QLBanThuoc\QLBanThuoc\QLBanThuoc\obj\Debug\QLBanThuoc.pdb
+C:\Users\Admin\Downloads\Compressed\QLBanThuoc-master\QLBanThuoc\QLBanThuoc\bin\Debug\QLBanThuoc.exe.config
+C:\Users\Admin\Downloads\Compressed\QLBanThuoc-master\QLBanThuoc\QLBanThuoc\bin\Debug\QLBanThuoc.exe
+C:\Users\Admin\Downloads\Compressed\QLBanThuoc-master\QLBanThuoc\QLBanThuoc\bin\Debug\QLBanThuoc.pdb
+C:\Users\Admin\Downloads\Compressed\QLBanThuoc-master\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.Images.v19.1.dll
+C:\Users\Admin\Downloads\Compressed\QLBanThuoc-master\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraTreeList.v19.1.dll
+C:\Users\Admin\Downloads\Compressed\QLBanThuoc-master\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraRichEdit.v19.1.dll
+C:\Users\Admin\Downloads\Compressed\QLBanThuoc-master\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.DataAccess.v19.1.UI.dll
+C:\Users\Admin\Downloads\Compressed\QLBanThuoc-master\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraNavBar.v19.1.dll
+C:\Users\Admin\Downloads\Compressed\QLBanThuoc-master\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraCharts.v19.1.Wizard.dll
+C:\Users\Admin\Downloads\Compressed\QLBanThuoc-master\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraPivotGrid.v19.1.dll
+C:\Users\Admin\Downloads\Compressed\QLBanThuoc-master\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraCharts.v19.1.Extensions.dll
+C:\Users\Admin\Downloads\Compressed\QLBanThuoc-master\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraDiagram.v19.1.dll
+C:\Users\Admin\Downloads\Compressed\QLBanThuoc-master\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.Diagram.v19.1.Core.dll
+C:\Users\Admin\Downloads\Compressed\QLBanThuoc-master\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.Data.v19.1.xml
+C:\Users\Admin\Downloads\Compressed\QLBanThuoc-master\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.DataAccess.v19.1.xml
+C:\Users\Admin\Downloads\Compressed\QLBanThuoc-master\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.Office.v19.1.Core.xml
+C:\Users\Admin\Downloads\Compressed\QLBanThuoc-master\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.Pdf.v19.1.Core.xml
+C:\Users\Admin\Downloads\Compressed\QLBanThuoc-master\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.PivotGrid.v19.1.Core.xml
+C:\Users\Admin\Downloads\Compressed\QLBanThuoc-master\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.Printing.v19.1.Core.xml
+C:\Users\Admin\Downloads\Compressed\QLBanThuoc-master\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.RichEdit.v19.1.Core.xml
+C:\Users\Admin\Downloads\Compressed\QLBanThuoc-master\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.Utils.v19.1.xml
+C:\Users\Admin\Downloads\Compressed\QLBanThuoc-master\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.Utils.v19.1.UI.xml
+C:\Users\Admin\Downloads\Compressed\QLBanThuoc-master\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.Xpo.v19.1.xml
+C:\Users\Admin\Downloads\Compressed\QLBanThuoc-master\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraBars.v19.1.xml
+C:\Users\Admin\Downloads\Compressed\QLBanThuoc-master\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.Sparkline.v19.1.Core.xml
+C:\Users\Admin\Downloads\Compressed\QLBanThuoc-master\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraCharts.v19.1.xml
+C:\Users\Admin\Downloads\Compressed\QLBanThuoc-master\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraEditors.v19.1.xml
+C:\Users\Admin\Downloads\Compressed\QLBanThuoc-master\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraGauges.v19.1.Core.xml
+C:\Users\Admin\Downloads\Compressed\QLBanThuoc-master\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraGrid.v19.1.xml
+C:\Users\Admin\Downloads\Compressed\QLBanThuoc-master\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraLayout.v19.1.xml
+C:\Users\Admin\Downloads\Compressed\QLBanThuoc-master\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraPrinting.v19.1.xml
+C:\Users\Admin\Downloads\Compressed\QLBanThuoc-master\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraReports.v19.1.xml
+C:\Users\Admin\Downloads\Compressed\QLBanThuoc-master\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraReports.v19.1.Extensions.xml
+C:\Users\Admin\Downloads\Compressed\QLBanThuoc-master\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraVerticalGrid.v19.1.xml
+C:\Users\Admin\Downloads\Compressed\QLBanThuoc-master\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraTreeList.v19.1.xml
+C:\Users\Admin\Downloads\Compressed\QLBanThuoc-master\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraRichEdit.v19.1.xml
+C:\Users\Admin\Downloads\Compressed\QLBanThuoc-master\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.DataAccess.v19.1.UI.xml
+C:\Users\Admin\Downloads\Compressed\QLBanThuoc-master\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraNavBar.v19.1.xml
+C:\Users\Admin\Downloads\Compressed\QLBanThuoc-master\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraCharts.v19.1.Wizard.xml
+C:\Users\Admin\Downloads\Compressed\QLBanThuoc-master\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraPivotGrid.v19.1.xml
+C:\Users\Admin\Downloads\Compressed\QLBanThuoc-master\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraDiagram.v19.1.xml
+C:\Users\Admin\Downloads\Compressed\QLBanThuoc-master\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.Diagram.v19.1.Core.xml
+C:\Users\Admin\Downloads\Compressed\QLBanThuoc-master\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.Data.v19.1.resources.dll
+C:\Users\Admin\Downloads\Compressed\QLBanThuoc-master\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.Data.v19.1.resources.dll
+C:\Users\Admin\Downloads\Compressed\QLBanThuoc-master\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.Data.v19.1.resources.dll
+C:\Users\Admin\Downloads\Compressed\QLBanThuoc-master\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.Data.v19.1.resources.dll
+C:\Users\Admin\Downloads\Compressed\QLBanThuoc-master\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.DataAccess.v19.1.resources.dll
+C:\Users\Admin\Downloads\Compressed\QLBanThuoc-master\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.DataAccess.v19.1.resources.dll
+C:\Users\Admin\Downloads\Compressed\QLBanThuoc-master\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.DataAccess.v19.1.resources.dll
+C:\Users\Admin\Downloads\Compressed\QLBanThuoc-master\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.DataAccess.v19.1.resources.dll
+C:\Users\Admin\Downloads\Compressed\QLBanThuoc-master\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.Office.v19.1.Core.resources.dll
+C:\Users\Admin\Downloads\Compressed\QLBanThuoc-master\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.Office.v19.1.Core.resources.dll
+C:\Users\Admin\Downloads\Compressed\QLBanThuoc-master\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.Office.v19.1.Core.resources.dll
+C:\Users\Admin\Downloads\Compressed\QLBanThuoc-master\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.Office.v19.1.Core.resources.dll
+C:\Users\Admin\Downloads\Compressed\QLBanThuoc-master\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\Admin\Downloads\Compressed\QLBanThuoc-master\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\Admin\Downloads\Compressed\QLBanThuoc-master\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\Admin\Downloads\Compressed\QLBanThuoc-master\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\Admin\Downloads\Compressed\QLBanThuoc-master\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.PivotGrid.v19.1.Core.resources.dll
+C:\Users\Admin\Downloads\Compressed\QLBanThuoc-master\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.PivotGrid.v19.1.Core.resources.dll
+C:\Users\Admin\Downloads\Compressed\QLBanThuoc-master\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.PivotGrid.v19.1.Core.resources.dll
+C:\Users\Admin\Downloads\Compressed\QLBanThuoc-master\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.PivotGrid.v19.1.Core.resources.dll
+C:\Users\Admin\Downloads\Compressed\QLBanThuoc-master\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\Admin\Downloads\Compressed\QLBanThuoc-master\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\Admin\Downloads\Compressed\QLBanThuoc-master\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\Admin\Downloads\Compressed\QLBanThuoc-master\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\Admin\Downloads\Compressed\QLBanThuoc-master\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.RichEdit.v19.1.Core.resources.dll
+C:\Users\Admin\Downloads\Compressed\QLBanThuoc-master\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.RichEdit.v19.1.Core.resources.dll
+C:\Users\Admin\Downloads\Compressed\QLBanThuoc-master\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.RichEdit.v19.1.Core.resources.dll
+C:\Users\Admin\Downloads\Compressed\QLBanThuoc-master\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.RichEdit.v19.1.Core.resources.dll
+C:\Users\Admin\Downloads\Compressed\QLBanThuoc-master\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.Utils.v19.1.resources.dll
+C:\Users\Admin\Downloads\Compressed\QLBanThuoc-master\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.Utils.v19.1.resources.dll
+C:\Users\Admin\Downloads\Compressed\QLBanThuoc-master\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.Utils.v19.1.resources.dll
+C:\Users\Admin\Downloads\Compressed\QLBanThuoc-master\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.Utils.v19.1.resources.dll
+C:\Users\Admin\Downloads\Compressed\QLBanThuoc-master\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.Utils.v19.1.UI.resources.dll
+C:\Users\Admin\Downloads\Compressed\QLBanThuoc-master\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.Utils.v19.1.UI.resources.dll
+C:\Users\Admin\Downloads\Compressed\QLBanThuoc-master\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.Utils.v19.1.UI.resources.dll
+C:\Users\Admin\Downloads\Compressed\QLBanThuoc-master\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.Utils.v19.1.UI.resources.dll
+C:\Users\Admin\Downloads\Compressed\QLBanThuoc-master\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.Xpo.v19.1.resources.dll
+C:\Users\Admin\Downloads\Compressed\QLBanThuoc-master\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.Xpo.v19.1.resources.dll
+C:\Users\Admin\Downloads\Compressed\QLBanThuoc-master\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.Xpo.v19.1.resources.dll
+C:\Users\Admin\Downloads\Compressed\QLBanThuoc-master\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.Xpo.v19.1.resources.dll
+C:\Users\Admin\Downloads\Compressed\QLBanThuoc-master\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.XtraBars.v19.1.resources.dll
+C:\Users\Admin\Downloads\Compressed\QLBanThuoc-master\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.XtraBars.v19.1.resources.dll
+C:\Users\Admin\Downloads\Compressed\QLBanThuoc-master\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.XtraBars.v19.1.resources.dll
+C:\Users\Admin\Downloads\Compressed\QLBanThuoc-master\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.XtraBars.v19.1.resources.dll
+C:\Users\Admin\Downloads\Compressed\QLBanThuoc-master\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\Admin\Downloads\Compressed\QLBanThuoc-master\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\Admin\Downloads\Compressed\QLBanThuoc-master\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\Admin\Downloads\Compressed\QLBanThuoc-master\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\Admin\Downloads\Compressed\QLBanThuoc-master\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.XtraCharts.v19.1.resources.dll
+C:\Users\Admin\Downloads\Compressed\QLBanThuoc-master\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.XtraCharts.v19.1.resources.dll
+C:\Users\Admin\Downloads\Compressed\QLBanThuoc-master\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.XtraCharts.v19.1.resources.dll
+C:\Users\Admin\Downloads\Compressed\QLBanThuoc-master\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.XtraCharts.v19.1.resources.dll
+C:\Users\Admin\Downloads\Compressed\QLBanThuoc-master\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\Admin\Downloads\Compressed\QLBanThuoc-master\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\Admin\Downloads\Compressed\QLBanThuoc-master\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\Admin\Downloads\Compressed\QLBanThuoc-master\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\Admin\Downloads\Compressed\QLBanThuoc-master\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.XtraGauges.v19.1.Core.resources.dll
+C:\Users\Admin\Downloads\Compressed\QLBanThuoc-master\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.XtraGauges.v19.1.Core.resources.dll
+C:\Users\Admin\Downloads\Compressed\QLBanThuoc-master\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.XtraGauges.v19.1.Core.resources.dll
+C:\Users\Admin\Downloads\Compressed\QLBanThuoc-master\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.XtraGauges.v19.1.Core.resources.dll
+C:\Users\Admin\Downloads\Compressed\QLBanThuoc-master\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.XtraGrid.v19.1.resources.dll
+C:\Users\Admin\Downloads\Compressed\QLBanThuoc-master\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.XtraGrid.v19.1.resources.dll
+C:\Users\Admin\Downloads\Compressed\QLBanThuoc-master\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.XtraGrid.v19.1.resources.dll
+C:\Users\Admin\Downloads\Compressed\QLBanThuoc-master\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.XtraGrid.v19.1.resources.dll
+C:\Users\Admin\Downloads\Compressed\QLBanThuoc-master\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.XtraLayout.v19.1.resources.dll
+C:\Users\Admin\Downloads\Compressed\QLBanThuoc-master\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.XtraLayout.v19.1.resources.dll
+C:\Users\Admin\Downloads\Compressed\QLBanThuoc-master\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.XtraLayout.v19.1.resources.dll
+C:\Users\Admin\Downloads\Compressed\QLBanThuoc-master\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.XtraLayout.v19.1.resources.dll
+C:\Users\Admin\Downloads\Compressed\QLBanThuoc-master\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.XtraPrinting.v19.1.resources.dll
+C:\Users\Admin\Downloads\Compressed\QLBanThuoc-master\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.XtraPrinting.v19.1.resources.dll
+C:\Users\Admin\Downloads\Compressed\QLBanThuoc-master\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.XtraPrinting.v19.1.resources.dll
+C:\Users\Admin\Downloads\Compressed\QLBanThuoc-master\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.XtraPrinting.v19.1.resources.dll
+C:\Users\Admin\Downloads\Compressed\QLBanThuoc-master\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.XtraReports.v19.1.resources.dll
+C:\Users\Admin\Downloads\Compressed\QLBanThuoc-master\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.XtraReports.v19.1.resources.dll
+C:\Users\Admin\Downloads\Compressed\QLBanThuoc-master\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.XtraReports.v19.1.resources.dll
+C:\Users\Admin\Downloads\Compressed\QLBanThuoc-master\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.XtraReports.v19.1.resources.dll
+C:\Users\Admin\Downloads\Compressed\QLBanThuoc-master\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.XtraReports.v19.1.Extensions.resources.dll
+C:\Users\Admin\Downloads\Compressed\QLBanThuoc-master\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.XtraReports.v19.1.Extensions.resources.dll
+C:\Users\Admin\Downloads\Compressed\QLBanThuoc-master\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.XtraReports.v19.1.Extensions.resources.dll
+C:\Users\Admin\Downloads\Compressed\QLBanThuoc-master\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.XtraReports.v19.1.Extensions.resources.dll
+C:\Users\Admin\Downloads\Compressed\QLBanThuoc-master\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+C:\Users\Admin\Downloads\Compressed\QLBanThuoc-master\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+C:\Users\Admin\Downloads\Compressed\QLBanThuoc-master\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+C:\Users\Admin\Downloads\Compressed\QLBanThuoc-master\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+C:\Users\Admin\Downloads\Compressed\QLBanThuoc-master\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.XtraTreeList.v19.1.resources.dll
+C:\Users\Admin\Downloads\Compressed\QLBanThuoc-master\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.XtraTreeList.v19.1.resources.dll
+C:\Users\Admin\Downloads\Compressed\QLBanThuoc-master\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.XtraTreeList.v19.1.resources.dll
+C:\Users\Admin\Downloads\Compressed\QLBanThuoc-master\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.XtraTreeList.v19.1.resources.dll
+C:\Users\Admin\Downloads\Compressed\QLBanThuoc-master\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.XtraRichEdit.v19.1.resources.dll
+C:\Users\Admin\Downloads\Compressed\QLBanThuoc-master\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.XtraRichEdit.v19.1.resources.dll
+C:\Users\Admin\Downloads\Compressed\QLBanThuoc-master\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.XtraRichEdit.v19.1.resources.dll
+C:\Users\Admin\Downloads\Compressed\QLBanThuoc-master\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.XtraRichEdit.v19.1.resources.dll
+C:\Users\Admin\Downloads\Compressed\QLBanThuoc-master\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.DataAccess.v19.1.UI.resources.dll
+C:\Users\Admin\Downloads\Compressed\QLBanThuoc-master\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.DataAccess.v19.1.UI.resources.dll
+C:\Users\Admin\Downloads\Compressed\QLBanThuoc-master\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.DataAccess.v19.1.UI.resources.dll
+C:\Users\Admin\Downloads\Compressed\QLBanThuoc-master\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.DataAccess.v19.1.UI.resources.dll
+C:\Users\Admin\Downloads\Compressed\QLBanThuoc-master\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.XtraNavBar.v19.1.resources.dll
+C:\Users\Admin\Downloads\Compressed\QLBanThuoc-master\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.XtraNavBar.v19.1.resources.dll
+C:\Users\Admin\Downloads\Compressed\QLBanThuoc-master\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.XtraNavBar.v19.1.resources.dll
+C:\Users\Admin\Downloads\Compressed\QLBanThuoc-master\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.XtraNavBar.v19.1.resources.dll
+C:\Users\Admin\Downloads\Compressed\QLBanThuoc-master\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+C:\Users\Admin\Downloads\Compressed\QLBanThuoc-master\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+C:\Users\Admin\Downloads\Compressed\QLBanThuoc-master\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+C:\Users\Admin\Downloads\Compressed\QLBanThuoc-master\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+C:\Users\Admin\Downloads\Compressed\QLBanThuoc-master\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.XtraPivotGrid.v19.1.resources.dll
+C:\Users\Admin\Downloads\Compressed\QLBanThuoc-master\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.XtraPivotGrid.v19.1.resources.dll
+C:\Users\Admin\Downloads\Compressed\QLBanThuoc-master\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.XtraPivotGrid.v19.1.resources.dll
+C:\Users\Admin\Downloads\Compressed\QLBanThuoc-master\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.XtraPivotGrid.v19.1.resources.dll
+C:\Users\Admin\Downloads\Compressed\QLBanThuoc-master\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.Diagram.v19.1.Core.resources.dll
+C:\Users\Admin\Downloads\Compressed\QLBanThuoc-master\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.Diagram.v19.1.Core.resources.dll
+C:\Users\Admin\Downloads\Compressed\QLBanThuoc-master\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.Diagram.v19.1.Core.resources.dll
+C:\Users\Admin\Downloads\Compressed\QLBanThuoc-master\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.Diagram.v19.1.Core.resources.dll
+C:\Users\Admin\Downloads\Compressed\QLBanThuoc-master\QLBanThuoc\QLBanThuoc\obj\Debug\QLBanThuoc.csprojAssemblyReference.cache
+C:\Users\Admin\Downloads\Compressed\QLBanThuoc-master\QLBanThuoc\QLBanThuoc\obj\Debug\QLBanThuoc.BCTK.SoLuongTon.resources
+C:\Users\Admin\Downloads\Compressed\QLBanThuoc-master\QLBanThuoc\QLBanThuoc\obj\Debug\QLBanThuoc.BCTK.ThuocBanRa.resources
+C:\Users\Admin\Downloads\Compressed\QLBanThuoc-master\QLBanThuoc\QLBanThuoc\obj\Debug\QLBanThuoc.BCTK.ThuocHetHan.resources
+C:\Users\Admin\Downloads\Compressed\QLBanThuoc-master\QLBanThuoc\QLBanThuoc\obj\Debug\QLBanThuoc.BCTK.ThuocNhap.resources
+C:\Users\Admin\Downloads\Compressed\QLBanThuoc-master\QLBanThuoc\QLBanThuoc\obj\Debug\QLBanThuoc.Data.frmConnection.resources
+C:\Users\Admin\Downloads\Compressed\QLBanThuoc-master\QLBanThuoc\QLBanThuoc\obj\Debug\QLBanThuoc.Data.XtraForm1.resources
+C:\Users\Admin\Downloads\Compressed\QLBanThuoc-master\QLBanThuoc\QLBanThuoc\obj\Debug\QLBanThuoc.Form1.resources
+C:\Users\Admin\Downloads\Compressed\QLBanThuoc-master\QLBanThuoc\QLBanThuoc\obj\Debug\QLBanThuoc.frmNhaCungCap.NhaCungCap.resources
+C:\Users\Admin\Downloads\Compressed\QLBanThuoc-master\QLBanThuoc\QLBanThuoc\obj\Debug\QLBanThuoc.frmQuanLyThuoc.frmBanThuoc.resources
+C:\Users\Admin\Downloads\Compressed\QLBanThuoc-master\QLBanThuoc\QLBanThuoc\obj\Debug\QLBanThuoc.frmQuanLyThuoc.frmDanhSach.resources
+C:\Users\Admin\Downloads\Compressed\QLBanThuoc-master\QLBanThuoc\QLBanThuoc\obj\Debug\QLBanThuoc.frmQuanLyNguoiDung.frmNhapThuoc.resources
+C:\Users\Admin\Downloads\Compressed\QLBanThuoc-master\QLBanThuoc\QLBanThuoc\obj\Debug\QLBanThuoc.frmThongKe.DoanhThu.resources
+C:\Users\Admin\Downloads\Compressed\QLBanThuoc-master\QLBanThuoc\QLBanThuoc\obj\Debug\QLBanThuoc.frmTimKiem.TenThuoc.resources
+C:\Users\Admin\Downloads\Compressed\QLBanThuoc-master\QLBanThuoc\QLBanThuoc\obj\Debug\QLBanThuoc.Properties.Resources.resources
+C:\Users\Admin\Downloads\Compressed\QLBanThuoc-master\QLBanThuoc\QLBanThuoc\obj\Debug\QLBanThuoc.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\Compressed\QLBanThuoc-master\QLBanThuoc\QLBanThuoc\obj\Debug\QLBanThuoc.exe.licenses
+C:\Users\Admin\Downloads\Compressed\QLBanThuoc-master\QLBanThuoc\QLBanThuoc\obj\Debug\QLBanThuoc.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\Compressed\QLBanThuoc-master\QLBanThuoc\QLBanThuoc\obj\Debug\QLBanThuoc.csproj.CopyComplete
+C:\Users\Admin\Downloads\Compressed\QLBanThuoc-master\QLBanThuoc\QLBanThuoc\obj\Debug\QLBanThuoc.exe
+C:\Users\Admin\Downloads\Compressed\QLBanThuoc-master\QLBanThuoc\QLBanThuoc\obj\Debug\QLBanThuoc.pdb
+C:\Users\Hoang Viet\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\QLBanThuoc.exe.config
+C:\Users\Hoang Viet\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\QLBanThuoc.exe
+C:\Users\Hoang Viet\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\QLBanThuoc.pdb
+C:\Users\Hoang Viet\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\obj\Debug\QLBanThuoc.csprojAssemblyReference.cache
+C:\Users\Hoang Viet\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\obj\Debug\QLBanThuoc.BCTK.SoLuongTon.resources
+C:\Users\Hoang Viet\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\obj\Debug\QLBanThuoc.BCTK.ThuocBanRa.resources
+C:\Users\Hoang Viet\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\obj\Debug\QLBanThuoc.BCTK.ThuocHetHan.resources
+C:\Users\Hoang Viet\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\obj\Debug\QLBanThuoc.BCTK.ThuocNhap.resources
+C:\Users\Hoang Viet\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\obj\Debug\QLBanThuoc.Data.frmConnection.resources
+C:\Users\Hoang Viet\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\obj\Debug\QLBanThuoc.Data.XtraForm1.resources
+C:\Users\Hoang Viet\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\obj\Debug\QLBanThuoc.Form1.resources
+C:\Users\Hoang Viet\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\obj\Debug\QLBanThuoc.frmNhaCungCap.NhaCungCap.resources
+C:\Users\Hoang Viet\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\obj\Debug\QLBanThuoc.frmQuanLyThuoc.frmBanThuoc.resources
+C:\Users\Hoang Viet\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\obj\Debug\QLBanThuoc.frmQuanLyThuoc.frmDanhSach.resources
+C:\Users\Hoang Viet\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\obj\Debug\QLBanThuoc.frmQuanLyNguoiDung.frmNhapThuoc.resources
+C:\Users\Hoang Viet\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\obj\Debug\QLBanThuoc.frmThongKe.DoanhThu.resources
+C:\Users\Hoang Viet\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\obj\Debug\QLBanThuoc.frmTimKiem.TenThuoc.resources
+C:\Users\Hoang Viet\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\obj\Debug\QLBanThuoc.Properties.Resources.resources
+C:\Users\Hoang Viet\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\obj\Debug\QLBanThuoc.csproj.GenerateResource.cache
+C:\Users\Hoang Viet\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\obj\Debug\QLBanThuoc.exe.licenses
+C:\Users\Hoang Viet\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\obj\Debug\QLBanThuoc.csproj.CoreCompileInputs.cache
+C:\Users\Hoang Viet\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\obj\Debug\QLBanThuoc.csproj.CopyComplete
+C:\Users\Hoang Viet\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\obj\Debug\QLBanThuoc.exe
+C:\Users\Hoang Viet\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\obj\Debug\QLBanThuoc.pdb
+C:\Users\Hoang Viet\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.BonusSkins.v19.2.dll
+C:\Users\Hoang Viet\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.Charts.v19.2.Core.dll
+C:\Users\Hoang Viet\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.CodeParser.v19.2.dll
+C:\Users\Hoang Viet\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.Data.v19.2.dll
+C:\Users\Hoang Viet\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.DataAccess.v19.2.dll
+C:\Users\Hoang Viet\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.Office.v19.2.Core.dll
+C:\Users\Hoang Viet\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+C:\Users\Hoang Viet\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.PivotGrid.v19.2.Core.dll
+C:\Users\Hoang Viet\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+C:\Users\Hoang Viet\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.RichEdit.v19.2.Core.dll
+C:\Users\Hoang Viet\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.RichEdit.v19.2.Export.dll
+C:\Users\Hoang Viet\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.Sparkline.v19.2.Core.dll
+C:\Users\Hoang Viet\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.Utils.v19.2.dll
+C:\Users\Hoang Viet\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.Utils.v19.2.UI.dll
+C:\Users\Hoang Viet\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.Xpo.v19.2.dll
+C:\Users\Hoang Viet\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraBars.v19.2.dll
+C:\Users\Hoang Viet\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraCharts.v19.2.dll
+C:\Users\Hoang Viet\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraEditors.v19.2.dll
+C:\Users\Hoang Viet\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraGauges.v19.2.Core.dll
+C:\Users\Hoang Viet\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraGrid.v19.2.dll
+C:\Users\Hoang Viet\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraLayout.v19.2.dll
+C:\Users\Hoang Viet\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraPrinting.v19.2.dll
+C:\Users\Hoang Viet\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraReports.v19.2.dll
+C:\Users\Hoang Viet\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraReports.v19.2.Extensions.dll
+C:\Users\Hoang Viet\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraVerticalGrid.v19.2.dll
+C:\Users\Hoang Viet\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.Images.v19.2.dll
+C:\Users\Hoang Viet\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraTreeList.v19.2.dll
+C:\Users\Hoang Viet\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraRichEdit.v19.2.dll
+C:\Users\Hoang Viet\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.DataAccess.v19.2.UI.dll
+C:\Users\Hoang Viet\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraNavBar.v19.2.dll
+C:\Users\Hoang Viet\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraCharts.v19.2.Wizard.dll
+C:\Users\Hoang Viet\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraPivotGrid.v19.2.dll
+C:\Users\Hoang Viet\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraCharts.v19.2.Extensions.dll
+C:\Users\Hoang Viet\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraDiagram.v19.2.dll
+C:\Users\Hoang Viet\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.Diagram.v19.2.Core.dll
+C:\Users\Hoang Viet\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.Data.v19.2.xml
+C:\Users\Hoang Viet\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.DataAccess.v19.2.xml
+C:\Users\Hoang Viet\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.Office.v19.2.Core.xml
+C:\Users\Hoang Viet\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+C:\Users\Hoang Viet\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.PivotGrid.v19.2.Core.xml
+C:\Users\Hoang Viet\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+C:\Users\Hoang Viet\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.RichEdit.v19.2.Core.xml
+C:\Users\Hoang Viet\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.Utils.v19.2.xml
+C:\Users\Hoang Viet\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.Utils.v19.2.UI.xml
+C:\Users\Hoang Viet\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.Xpo.v19.2.xml
+C:\Users\Hoang Viet\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraBars.v19.2.xml
+C:\Users\Hoang Viet\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+C:\Users\Hoang Viet\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraCharts.v19.2.xml
+C:\Users\Hoang Viet\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+C:\Users\Hoang Viet\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraGauges.v19.2.Core.xml
+C:\Users\Hoang Viet\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraGrid.v19.2.xml
+C:\Users\Hoang Viet\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraLayout.v19.2.xml
+C:\Users\Hoang Viet\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraPrinting.v19.2.xml
+C:\Users\Hoang Viet\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraReports.v19.2.xml
+C:\Users\Hoang Viet\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraReports.v19.2.Extensions.xml
+C:\Users\Hoang Viet\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraVerticalGrid.v19.2.xml
+C:\Users\Hoang Viet\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraTreeList.v19.2.xml
+C:\Users\Hoang Viet\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraRichEdit.v19.2.xml
+C:\Users\Hoang Viet\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.DataAccess.v19.2.UI.xml
+C:\Users\Hoang Viet\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraNavBar.v19.2.xml
+C:\Users\Hoang Viet\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraCharts.v19.2.Wizard.xml
+C:\Users\Hoang Viet\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraPivotGrid.v19.2.xml
+C:\Users\Hoang Viet\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraDiagram.v19.2.xml
+C:\Users\Hoang Viet\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.Diagram.v19.2.Core.xml
+C:\Users\Hoang Viet\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+C:\Users\Hoang Viet\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+C:\Users\Hoang Viet\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+C:\Users\Hoang Viet\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+C:\Users\Hoang Viet\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.DataAccess.v19.2.resources.dll
+C:\Users\Hoang Viet\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.DataAccess.v19.2.resources.dll
+C:\Users\Hoang Viet\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.DataAccess.v19.2.resources.dll
+C:\Users\Hoang Viet\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.DataAccess.v19.2.resources.dll
+C:\Users\Hoang Viet\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\Hoang Viet\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\Hoang Viet\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\Hoang Viet\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\Hoang Viet\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\Hoang Viet\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\Hoang Viet\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\Hoang Viet\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\Hoang Viet\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.PivotGrid.v19.2.Core.resources.dll
+C:\Users\Hoang Viet\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.PivotGrid.v19.2.Core.resources.dll
+C:\Users\Hoang Viet\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.PivotGrid.v19.2.Core.resources.dll
+C:\Users\Hoang Viet\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.PivotGrid.v19.2.Core.resources.dll
+C:\Users\Hoang Viet\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\Hoang Viet\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\Hoang Viet\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\Hoang Viet\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\Hoang Viet\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\Hoang Viet\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\Hoang Viet\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\Hoang Viet\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\Hoang Viet\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+C:\Users\Hoang Viet\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+C:\Users\Hoang Viet\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+C:\Users\Hoang Viet\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+C:\Users\Hoang Viet\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.Utils.v19.2.UI.resources.dll
+C:\Users\Hoang Viet\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.Utils.v19.2.UI.resources.dll
+C:\Users\Hoang Viet\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.Utils.v19.2.UI.resources.dll
+C:\Users\Hoang Viet\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.Utils.v19.2.UI.resources.dll
+C:\Users\Hoang Viet\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.Xpo.v19.2.resources.dll
+C:\Users\Hoang Viet\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.Xpo.v19.2.resources.dll
+C:\Users\Hoang Viet\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.Xpo.v19.2.resources.dll
+C:\Users\Hoang Viet\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.Xpo.v19.2.resources.dll
+C:\Users\Hoang Viet\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\Hoang Viet\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\Hoang Viet\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\Hoang Viet\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\Hoang Viet\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\Hoang Viet\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\Hoang Viet\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\Hoang Viet\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\Hoang Viet\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.XtraCharts.v19.2.resources.dll
+C:\Users\Hoang Viet\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.XtraCharts.v19.2.resources.dll
+C:\Users\Hoang Viet\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.XtraCharts.v19.2.resources.dll
+C:\Users\Hoang Viet\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.XtraCharts.v19.2.resources.dll
+C:\Users\Hoang Viet\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\Hoang Viet\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\Hoang Viet\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\Hoang Viet\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\Hoang Viet\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.XtraGauges.v19.2.Core.resources.dll
+C:\Users\Hoang Viet\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.XtraGauges.v19.2.Core.resources.dll
+C:\Users\Hoang Viet\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.XtraGauges.v19.2.Core.resources.dll
+C:\Users\Hoang Viet\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.XtraGauges.v19.2.Core.resources.dll
+C:\Users\Hoang Viet\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\Hoang Viet\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\Hoang Viet\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\Hoang Viet\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\Hoang Viet\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\Hoang Viet\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\Hoang Viet\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\Hoang Viet\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\Hoang Viet\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\Hoang Viet\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\Hoang Viet\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\Hoang Viet\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\Hoang Viet\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.XtraReports.v19.2.resources.dll
+C:\Users\Hoang Viet\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.XtraReports.v19.2.resources.dll
+C:\Users\Hoang Viet\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.XtraReports.v19.2.resources.dll
+C:\Users\Hoang Viet\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.XtraReports.v19.2.resources.dll
+C:\Users\Hoang Viet\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+C:\Users\Hoang Viet\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+C:\Users\Hoang Viet\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+C:\Users\Hoang Viet\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+C:\Users\Hoang Viet\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+C:\Users\Hoang Viet\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+C:\Users\Hoang Viet\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+C:\Users\Hoang Viet\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+C:\Users\Hoang Viet\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\Hoang Viet\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\Hoang Viet\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\Hoang Viet\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\Hoang Viet\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.XtraRichEdit.v19.2.resources.dll
+C:\Users\Hoang Viet\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.XtraRichEdit.v19.2.resources.dll
+C:\Users\Hoang Viet\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.XtraRichEdit.v19.2.resources.dll
+C:\Users\Hoang Viet\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.XtraRichEdit.v19.2.resources.dll
+C:\Users\Hoang Viet\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.DataAccess.v19.2.UI.resources.dll
+C:\Users\Hoang Viet\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.DataAccess.v19.2.UI.resources.dll
+C:\Users\Hoang Viet\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.DataAccess.v19.2.UI.resources.dll
+C:\Users\Hoang Viet\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.DataAccess.v19.2.UI.resources.dll
+C:\Users\Hoang Viet\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.XtraNavBar.v19.2.resources.dll
+C:\Users\Hoang Viet\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.XtraNavBar.v19.2.resources.dll
+C:\Users\Hoang Viet\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.XtraNavBar.v19.2.resources.dll
+C:\Users\Hoang Viet\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.XtraNavBar.v19.2.resources.dll
+C:\Users\Hoang Viet\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+C:\Users\Hoang Viet\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+C:\Users\Hoang Viet\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+C:\Users\Hoang Viet\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+C:\Users\Hoang Viet\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.XtraPivotGrid.v19.2.resources.dll
+C:\Users\Hoang Viet\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.XtraPivotGrid.v19.2.resources.dll
+C:\Users\Hoang Viet\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.XtraPivotGrid.v19.2.resources.dll
+C:\Users\Hoang Viet\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.XtraPivotGrid.v19.2.resources.dll
+C:\Users\Hoang Viet\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.Diagram.v19.2.Core.resources.dll
+C:\Users\Hoang Viet\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.Diagram.v19.2.Core.resources.dll
+C:\Users\Hoang Viet\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.Diagram.v19.2.Core.resources.dll
+C:\Users\Hoang Viet\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.Diagram.v19.2.Core.resources.dll
+D:\Study\College Stuff\Nam4\Kỳ 1\CN lập trình tích hợp\BTL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\QLBanThuoc.exe.config
+D:\Study\College Stuff\Nam4\Kỳ 1\CN lập trình tích hợp\BTL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\QLBanThuoc.exe
+D:\Study\College Stuff\Nam4\Kỳ 1\CN lập trình tích hợp\BTL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\QLBanThuoc.pdb
+D:\Study\College Stuff\Nam4\Kỳ 1\CN lập trình tích hợp\BTL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.BonusSkins.v19.2.dll
+D:\Study\College Stuff\Nam4\Kỳ 1\CN lập trình tích hợp\BTL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.Charts.v19.2.Core.dll
+D:\Study\College Stuff\Nam4\Kỳ 1\CN lập trình tích hợp\BTL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.CodeParser.v19.2.dll
+D:\Study\College Stuff\Nam4\Kỳ 1\CN lập trình tích hợp\BTL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.Data.v19.2.dll
+D:\Study\College Stuff\Nam4\Kỳ 1\CN lập trình tích hợp\BTL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.DataAccess.v19.2.dll
+D:\Study\College Stuff\Nam4\Kỳ 1\CN lập trình tích hợp\BTL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.Office.v19.2.Core.dll
+D:\Study\College Stuff\Nam4\Kỳ 1\CN lập trình tích hợp\BTL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+D:\Study\College Stuff\Nam4\Kỳ 1\CN lập trình tích hợp\BTL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.PivotGrid.v19.2.Core.dll
+D:\Study\College Stuff\Nam4\Kỳ 1\CN lập trình tích hợp\BTL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+D:\Study\College Stuff\Nam4\Kỳ 1\CN lập trình tích hợp\BTL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.RichEdit.v19.2.Core.dll
+D:\Study\College Stuff\Nam4\Kỳ 1\CN lập trình tích hợp\BTL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.RichEdit.v19.2.Export.dll
+D:\Study\College Stuff\Nam4\Kỳ 1\CN lập trình tích hợp\BTL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.Sparkline.v19.2.Core.dll
+D:\Study\College Stuff\Nam4\Kỳ 1\CN lập trình tích hợp\BTL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.Utils.v19.2.dll
+D:\Study\College Stuff\Nam4\Kỳ 1\CN lập trình tích hợp\BTL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.Utils.v19.2.UI.dll
+D:\Study\College Stuff\Nam4\Kỳ 1\CN lập trình tích hợp\BTL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.Xpo.v19.2.dll
+D:\Study\College Stuff\Nam4\Kỳ 1\CN lập trình tích hợp\BTL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraBars.v19.2.dll
+D:\Study\College Stuff\Nam4\Kỳ 1\CN lập trình tích hợp\BTL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraCharts.v19.2.dll
+D:\Study\College Stuff\Nam4\Kỳ 1\CN lập trình tích hợp\BTL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraEditors.v19.2.dll
+D:\Study\College Stuff\Nam4\Kỳ 1\CN lập trình tích hợp\BTL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraGauges.v19.2.Core.dll
+D:\Study\College Stuff\Nam4\Kỳ 1\CN lập trình tích hợp\BTL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraGrid.v19.2.dll
+D:\Study\College Stuff\Nam4\Kỳ 1\CN lập trình tích hợp\BTL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraLayout.v19.2.dll
+D:\Study\College Stuff\Nam4\Kỳ 1\CN lập trình tích hợp\BTL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraPrinting.v19.2.dll
+D:\Study\College Stuff\Nam4\Kỳ 1\CN lập trình tích hợp\BTL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraReports.v19.2.dll
+D:\Study\College Stuff\Nam4\Kỳ 1\CN lập trình tích hợp\BTL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraReports.v19.2.Extensions.dll
+D:\Study\College Stuff\Nam4\Kỳ 1\CN lập trình tích hợp\BTL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraVerticalGrid.v19.2.dll
+D:\Study\College Stuff\Nam4\Kỳ 1\CN lập trình tích hợp\BTL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.Images.v19.2.dll
+D:\Study\College Stuff\Nam4\Kỳ 1\CN lập trình tích hợp\BTL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraTreeList.v19.2.dll
+D:\Study\College Stuff\Nam4\Kỳ 1\CN lập trình tích hợp\BTL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraRichEdit.v19.2.dll
+D:\Study\College Stuff\Nam4\Kỳ 1\CN lập trình tích hợp\BTL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.DataAccess.v19.2.UI.dll
+D:\Study\College Stuff\Nam4\Kỳ 1\CN lập trình tích hợp\BTL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraNavBar.v19.2.dll
+D:\Study\College Stuff\Nam4\Kỳ 1\CN lập trình tích hợp\BTL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraCharts.v19.2.Wizard.dll
+D:\Study\College Stuff\Nam4\Kỳ 1\CN lập trình tích hợp\BTL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraPivotGrid.v19.2.dll
+D:\Study\College Stuff\Nam4\Kỳ 1\CN lập trình tích hợp\BTL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraCharts.v19.2.Extensions.dll
+D:\Study\College Stuff\Nam4\Kỳ 1\CN lập trình tích hợp\BTL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraDiagram.v19.2.dll
+D:\Study\College Stuff\Nam4\Kỳ 1\CN lập trình tích hợp\BTL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.Diagram.v19.2.Core.dll
+D:\Study\College Stuff\Nam4\Kỳ 1\CN lập trình tích hợp\BTL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.Data.v19.2.xml
+D:\Study\College Stuff\Nam4\Kỳ 1\CN lập trình tích hợp\BTL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.DataAccess.v19.2.xml
+D:\Study\College Stuff\Nam4\Kỳ 1\CN lập trình tích hợp\BTL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.Office.v19.2.Core.xml
+D:\Study\College Stuff\Nam4\Kỳ 1\CN lập trình tích hợp\BTL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+D:\Study\College Stuff\Nam4\Kỳ 1\CN lập trình tích hợp\BTL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.PivotGrid.v19.2.Core.xml
+D:\Study\College Stuff\Nam4\Kỳ 1\CN lập trình tích hợp\BTL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+D:\Study\College Stuff\Nam4\Kỳ 1\CN lập trình tích hợp\BTL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.RichEdit.v19.2.Core.xml
+D:\Study\College Stuff\Nam4\Kỳ 1\CN lập trình tích hợp\BTL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.Utils.v19.2.xml
+D:\Study\College Stuff\Nam4\Kỳ 1\CN lập trình tích hợp\BTL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.Utils.v19.2.UI.xml
+D:\Study\College Stuff\Nam4\Kỳ 1\CN lập trình tích hợp\BTL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.Xpo.v19.2.xml
+D:\Study\College Stuff\Nam4\Kỳ 1\CN lập trình tích hợp\BTL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraBars.v19.2.xml
+D:\Study\College Stuff\Nam4\Kỳ 1\CN lập trình tích hợp\BTL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+D:\Study\College Stuff\Nam4\Kỳ 1\CN lập trình tích hợp\BTL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraCharts.v19.2.xml
+D:\Study\College Stuff\Nam4\Kỳ 1\CN lập trình tích hợp\BTL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+D:\Study\College Stuff\Nam4\Kỳ 1\CN lập trình tích hợp\BTL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraGauges.v19.2.Core.xml
+D:\Study\College Stuff\Nam4\Kỳ 1\CN lập trình tích hợp\BTL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraGrid.v19.2.xml
+D:\Study\College Stuff\Nam4\Kỳ 1\CN lập trình tích hợp\BTL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraLayout.v19.2.xml
+D:\Study\College Stuff\Nam4\Kỳ 1\CN lập trình tích hợp\BTL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraPrinting.v19.2.xml
+D:\Study\College Stuff\Nam4\Kỳ 1\CN lập trình tích hợp\BTL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraReports.v19.2.xml
+D:\Study\College Stuff\Nam4\Kỳ 1\CN lập trình tích hợp\BTL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraReports.v19.2.Extensions.xml
+D:\Study\College Stuff\Nam4\Kỳ 1\CN lập trình tích hợp\BTL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraVerticalGrid.v19.2.xml
+D:\Study\College Stuff\Nam4\Kỳ 1\CN lập trình tích hợp\BTL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraTreeList.v19.2.xml
+D:\Study\College Stuff\Nam4\Kỳ 1\CN lập trình tích hợp\BTL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraRichEdit.v19.2.xml
+D:\Study\College Stuff\Nam4\Kỳ 1\CN lập trình tích hợp\BTL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.DataAccess.v19.2.UI.xml
+D:\Study\College Stuff\Nam4\Kỳ 1\CN lập trình tích hợp\BTL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraNavBar.v19.2.xml
+D:\Study\College Stuff\Nam4\Kỳ 1\CN lập trình tích hợp\BTL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraCharts.v19.2.Wizard.xml
+D:\Study\College Stuff\Nam4\Kỳ 1\CN lập trình tích hợp\BTL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraPivotGrid.v19.2.xml
+D:\Study\College Stuff\Nam4\Kỳ 1\CN lập trình tích hợp\BTL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.XtraDiagram.v19.2.xml
+D:\Study\College Stuff\Nam4\Kỳ 1\CN lập trình tích hợp\BTL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\DevExpress.Diagram.v19.2.Core.xml
+D:\Study\College Stuff\Nam4\Kỳ 1\CN lập trình tích hợp\BTL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+D:\Study\College Stuff\Nam4\Kỳ 1\CN lập trình tích hợp\BTL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+D:\Study\College Stuff\Nam4\Kỳ 1\CN lập trình tích hợp\BTL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+D:\Study\College Stuff\Nam4\Kỳ 1\CN lập trình tích hợp\BTL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+D:\Study\College Stuff\Nam4\Kỳ 1\CN lập trình tích hợp\BTL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.DataAccess.v19.2.resources.dll
+D:\Study\College Stuff\Nam4\Kỳ 1\CN lập trình tích hợp\BTL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.DataAccess.v19.2.resources.dll
+D:\Study\College Stuff\Nam4\Kỳ 1\CN lập trình tích hợp\BTL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.DataAccess.v19.2.resources.dll
+D:\Study\College Stuff\Nam4\Kỳ 1\CN lập trình tích hợp\BTL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.DataAccess.v19.2.resources.dll
+D:\Study\College Stuff\Nam4\Kỳ 1\CN lập trình tích hợp\BTL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.Office.v19.2.Core.resources.dll
+D:\Study\College Stuff\Nam4\Kỳ 1\CN lập trình tích hợp\BTL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.Office.v19.2.Core.resources.dll
+D:\Study\College Stuff\Nam4\Kỳ 1\CN lập trình tích hợp\BTL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.Office.v19.2.Core.resources.dll
+D:\Study\College Stuff\Nam4\Kỳ 1\CN lập trình tích hợp\BTL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.Office.v19.2.Core.resources.dll
+D:\Study\College Stuff\Nam4\Kỳ 1\CN lập trình tích hợp\BTL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\Study\College Stuff\Nam4\Kỳ 1\CN lập trình tích hợp\BTL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\Study\College Stuff\Nam4\Kỳ 1\CN lập trình tích hợp\BTL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\Study\College Stuff\Nam4\Kỳ 1\CN lập trình tích hợp\BTL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\Study\College Stuff\Nam4\Kỳ 1\CN lập trình tích hợp\BTL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.PivotGrid.v19.2.Core.resources.dll
+D:\Study\College Stuff\Nam4\Kỳ 1\CN lập trình tích hợp\BTL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.PivotGrid.v19.2.Core.resources.dll
+D:\Study\College Stuff\Nam4\Kỳ 1\CN lập trình tích hợp\BTL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.PivotGrid.v19.2.Core.resources.dll
+D:\Study\College Stuff\Nam4\Kỳ 1\CN lập trình tích hợp\BTL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.PivotGrid.v19.2.Core.resources.dll
+D:\Study\College Stuff\Nam4\Kỳ 1\CN lập trình tích hợp\BTL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+D:\Study\College Stuff\Nam4\Kỳ 1\CN lập trình tích hợp\BTL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+D:\Study\College Stuff\Nam4\Kỳ 1\CN lập trình tích hợp\BTL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+D:\Study\College Stuff\Nam4\Kỳ 1\CN lập trình tích hợp\BTL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+D:\Study\College Stuff\Nam4\Kỳ 1\CN lập trình tích hợp\BTL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.RichEdit.v19.2.Core.resources.dll
+D:\Study\College Stuff\Nam4\Kỳ 1\CN lập trình tích hợp\BTL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.RichEdit.v19.2.Core.resources.dll
+D:\Study\College Stuff\Nam4\Kỳ 1\CN lập trình tích hợp\BTL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.RichEdit.v19.2.Core.resources.dll
+D:\Study\College Stuff\Nam4\Kỳ 1\CN lập trình tích hợp\BTL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.RichEdit.v19.2.Core.resources.dll
+D:\Study\College Stuff\Nam4\Kỳ 1\CN lập trình tích hợp\BTL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+D:\Study\College Stuff\Nam4\Kỳ 1\CN lập trình tích hợp\BTL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+D:\Study\College Stuff\Nam4\Kỳ 1\CN lập trình tích hợp\BTL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+D:\Study\College Stuff\Nam4\Kỳ 1\CN lập trình tích hợp\BTL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+D:\Study\College Stuff\Nam4\Kỳ 1\CN lập trình tích hợp\BTL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.Utils.v19.2.UI.resources.dll
+D:\Study\College Stuff\Nam4\Kỳ 1\CN lập trình tích hợp\BTL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.Utils.v19.2.UI.resources.dll
+D:\Study\College Stuff\Nam4\Kỳ 1\CN lập trình tích hợp\BTL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.Utils.v19.2.UI.resources.dll
+D:\Study\College Stuff\Nam4\Kỳ 1\CN lập trình tích hợp\BTL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.Utils.v19.2.UI.resources.dll
+D:\Study\College Stuff\Nam4\Kỳ 1\CN lập trình tích hợp\BTL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.Xpo.v19.2.resources.dll
+D:\Study\College Stuff\Nam4\Kỳ 1\CN lập trình tích hợp\BTL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.Xpo.v19.2.resources.dll
+D:\Study\College Stuff\Nam4\Kỳ 1\CN lập trình tích hợp\BTL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.Xpo.v19.2.resources.dll
+D:\Study\College Stuff\Nam4\Kỳ 1\CN lập trình tích hợp\BTL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.Xpo.v19.2.resources.dll
+D:\Study\College Stuff\Nam4\Kỳ 1\CN lập trình tích hợp\BTL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.XtraBars.v19.2.resources.dll
+D:\Study\College Stuff\Nam4\Kỳ 1\CN lập trình tích hợp\BTL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.XtraBars.v19.2.resources.dll
+D:\Study\College Stuff\Nam4\Kỳ 1\CN lập trình tích hợp\BTL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.XtraBars.v19.2.resources.dll
+D:\Study\College Stuff\Nam4\Kỳ 1\CN lập trình tích hợp\BTL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.XtraBars.v19.2.resources.dll
+D:\Study\College Stuff\Nam4\Kỳ 1\CN lập trình tích hợp\BTL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\Study\College Stuff\Nam4\Kỳ 1\CN lập trình tích hợp\BTL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\Study\College Stuff\Nam4\Kỳ 1\CN lập trình tích hợp\BTL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\Study\College Stuff\Nam4\Kỳ 1\CN lập trình tích hợp\BTL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\Study\College Stuff\Nam4\Kỳ 1\CN lập trình tích hợp\BTL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.XtraCharts.v19.2.resources.dll
+D:\Study\College Stuff\Nam4\Kỳ 1\CN lập trình tích hợp\BTL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.XtraCharts.v19.2.resources.dll
+D:\Study\College Stuff\Nam4\Kỳ 1\CN lập trình tích hợp\BTL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.XtraCharts.v19.2.resources.dll
+D:\Study\College Stuff\Nam4\Kỳ 1\CN lập trình tích hợp\BTL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.XtraCharts.v19.2.resources.dll
+D:\Study\College Stuff\Nam4\Kỳ 1\CN lập trình tích hợp\BTL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+D:\Study\College Stuff\Nam4\Kỳ 1\CN lập trình tích hợp\BTL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+D:\Study\College Stuff\Nam4\Kỳ 1\CN lập trình tích hợp\BTL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+D:\Study\College Stuff\Nam4\Kỳ 1\CN lập trình tích hợp\BTL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+D:\Study\College Stuff\Nam4\Kỳ 1\CN lập trình tích hợp\BTL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.XtraGauges.v19.2.Core.resources.dll
+D:\Study\College Stuff\Nam4\Kỳ 1\CN lập trình tích hợp\BTL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.XtraGauges.v19.2.Core.resources.dll
+D:\Study\College Stuff\Nam4\Kỳ 1\CN lập trình tích hợp\BTL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.XtraGauges.v19.2.Core.resources.dll
+D:\Study\College Stuff\Nam4\Kỳ 1\CN lập trình tích hợp\BTL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.XtraGauges.v19.2.Core.resources.dll
+D:\Study\College Stuff\Nam4\Kỳ 1\CN lập trình tích hợp\BTL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.XtraGrid.v19.2.resources.dll
+D:\Study\College Stuff\Nam4\Kỳ 1\CN lập trình tích hợp\BTL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.XtraGrid.v19.2.resources.dll
+D:\Study\College Stuff\Nam4\Kỳ 1\CN lập trình tích hợp\BTL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.XtraGrid.v19.2.resources.dll
+D:\Study\College Stuff\Nam4\Kỳ 1\CN lập trình tích hợp\BTL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.XtraGrid.v19.2.resources.dll
+D:\Study\College Stuff\Nam4\Kỳ 1\CN lập trình tích hợp\BTL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.XtraLayout.v19.2.resources.dll
+D:\Study\College Stuff\Nam4\Kỳ 1\CN lập trình tích hợp\BTL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.XtraLayout.v19.2.resources.dll
+D:\Study\College Stuff\Nam4\Kỳ 1\CN lập trình tích hợp\BTL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.XtraLayout.v19.2.resources.dll
+D:\Study\College Stuff\Nam4\Kỳ 1\CN lập trình tích hợp\BTL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.XtraLayout.v19.2.resources.dll
+D:\Study\College Stuff\Nam4\Kỳ 1\CN lập trình tích hợp\BTL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.XtraPrinting.v19.2.resources.dll
+D:\Study\College Stuff\Nam4\Kỳ 1\CN lập trình tích hợp\BTL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.XtraPrinting.v19.2.resources.dll
+D:\Study\College Stuff\Nam4\Kỳ 1\CN lập trình tích hợp\BTL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.XtraPrinting.v19.2.resources.dll
+D:\Study\College Stuff\Nam4\Kỳ 1\CN lập trình tích hợp\BTL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.XtraPrinting.v19.2.resources.dll
+D:\Study\College Stuff\Nam4\Kỳ 1\CN lập trình tích hợp\BTL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.XtraReports.v19.2.resources.dll
+D:\Study\College Stuff\Nam4\Kỳ 1\CN lập trình tích hợp\BTL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.XtraReports.v19.2.resources.dll
+D:\Study\College Stuff\Nam4\Kỳ 1\CN lập trình tích hợp\BTL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.XtraReports.v19.2.resources.dll
+D:\Study\College Stuff\Nam4\Kỳ 1\CN lập trình tích hợp\BTL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.XtraReports.v19.2.resources.dll
+D:\Study\College Stuff\Nam4\Kỳ 1\CN lập trình tích hợp\BTL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+D:\Study\College Stuff\Nam4\Kỳ 1\CN lập trình tích hợp\BTL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+D:\Study\College Stuff\Nam4\Kỳ 1\CN lập trình tích hợp\BTL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+D:\Study\College Stuff\Nam4\Kỳ 1\CN lập trình tích hợp\BTL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+D:\Study\College Stuff\Nam4\Kỳ 1\CN lập trình tích hợp\BTL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+D:\Study\College Stuff\Nam4\Kỳ 1\CN lập trình tích hợp\BTL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+D:\Study\College Stuff\Nam4\Kỳ 1\CN lập trình tích hợp\BTL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+D:\Study\College Stuff\Nam4\Kỳ 1\CN lập trình tích hợp\BTL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+D:\Study\College Stuff\Nam4\Kỳ 1\CN lập trình tích hợp\BTL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.XtraTreeList.v19.2.resources.dll
+D:\Study\College Stuff\Nam4\Kỳ 1\CN lập trình tích hợp\BTL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.XtraTreeList.v19.2.resources.dll
+D:\Study\College Stuff\Nam4\Kỳ 1\CN lập trình tích hợp\BTL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.XtraTreeList.v19.2.resources.dll
+D:\Study\College Stuff\Nam4\Kỳ 1\CN lập trình tích hợp\BTL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.XtraTreeList.v19.2.resources.dll
+D:\Study\College Stuff\Nam4\Kỳ 1\CN lập trình tích hợp\BTL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.XtraRichEdit.v19.2.resources.dll
+D:\Study\College Stuff\Nam4\Kỳ 1\CN lập trình tích hợp\BTL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.XtraRichEdit.v19.2.resources.dll
+D:\Study\College Stuff\Nam4\Kỳ 1\CN lập trình tích hợp\BTL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.XtraRichEdit.v19.2.resources.dll
+D:\Study\College Stuff\Nam4\Kỳ 1\CN lập trình tích hợp\BTL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.XtraRichEdit.v19.2.resources.dll
+D:\Study\College Stuff\Nam4\Kỳ 1\CN lập trình tích hợp\BTL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.DataAccess.v19.2.UI.resources.dll
+D:\Study\College Stuff\Nam4\Kỳ 1\CN lập trình tích hợp\BTL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.DataAccess.v19.2.UI.resources.dll
+D:\Study\College Stuff\Nam4\Kỳ 1\CN lập trình tích hợp\BTL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.DataAccess.v19.2.UI.resources.dll
+D:\Study\College Stuff\Nam4\Kỳ 1\CN lập trình tích hợp\BTL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.DataAccess.v19.2.UI.resources.dll
+D:\Study\College Stuff\Nam4\Kỳ 1\CN lập trình tích hợp\BTL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.XtraNavBar.v19.2.resources.dll
+D:\Study\College Stuff\Nam4\Kỳ 1\CN lập trình tích hợp\BTL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.XtraNavBar.v19.2.resources.dll
+D:\Study\College Stuff\Nam4\Kỳ 1\CN lập trình tích hợp\BTL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.XtraNavBar.v19.2.resources.dll
+D:\Study\College Stuff\Nam4\Kỳ 1\CN lập trình tích hợp\BTL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.XtraNavBar.v19.2.resources.dll
+D:\Study\College Stuff\Nam4\Kỳ 1\CN lập trình tích hợp\BTL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+D:\Study\College Stuff\Nam4\Kỳ 1\CN lập trình tích hợp\BTL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+D:\Study\College Stuff\Nam4\Kỳ 1\CN lập trình tích hợp\BTL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+D:\Study\College Stuff\Nam4\Kỳ 1\CN lập trình tích hợp\BTL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+D:\Study\College Stuff\Nam4\Kỳ 1\CN lập trình tích hợp\BTL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.XtraPivotGrid.v19.2.resources.dll
+D:\Study\College Stuff\Nam4\Kỳ 1\CN lập trình tích hợp\BTL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.XtraPivotGrid.v19.2.resources.dll
+D:\Study\College Stuff\Nam4\Kỳ 1\CN lập trình tích hợp\BTL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.XtraPivotGrid.v19.2.resources.dll
+D:\Study\College Stuff\Nam4\Kỳ 1\CN lập trình tích hợp\BTL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.XtraPivotGrid.v19.2.resources.dll
+D:\Study\College Stuff\Nam4\Kỳ 1\CN lập trình tích hợp\BTL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\de\DevExpress.Diagram.v19.2.Core.resources.dll
+D:\Study\College Stuff\Nam4\Kỳ 1\CN lập trình tích hợp\BTL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\es\DevExpress.Diagram.v19.2.Core.resources.dll
+D:\Study\College Stuff\Nam4\Kỳ 1\CN lập trình tích hợp\BTL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ja\DevExpress.Diagram.v19.2.Core.resources.dll
+D:\Study\College Stuff\Nam4\Kỳ 1\CN lập trình tích hợp\BTL\QLBanThuoc\QLBanThuoc\QLBanThuoc\bin\Debug\ru\DevExpress.Diagram.v19.2.Core.resources.dll
+D:\Study\College Stuff\Nam4\Kỳ 1\CN lập trình tích hợp\BTL\QLBanThuoc\QLBanThuoc\QLBanThuoc\obj\Debug\QLBanThuoc.BCTK.SoLuongTon.resources
+D:\Study\College Stuff\Nam4\Kỳ 1\CN lập trình tích hợp\BTL\QLBanThuoc\QLBanThuoc\QLBanThuoc\obj\Debug\QLBanThuoc.BCTK.ThuocBanRa.resources
+D:\Study\College Stuff\Nam4\Kỳ 1\CN lập trình tích hợp\BTL\QLBanThuoc\QLBanThuoc\QLBanThuoc\obj\Debug\QLBanThuoc.BCTK.ThuocHetHan.resources
+D:\Study\College Stuff\Nam4\Kỳ 1\CN lập trình tích hợp\BTL\QLBanThuoc\QLBanThuoc\QLBanThuoc\obj\Debug\QLBanThuoc.BCTK.ThuocNhap.resources
+D:\Study\College Stuff\Nam4\Kỳ 1\CN lập trình tích hợp\BTL\QLBanThuoc\QLBanThuoc\QLBanThuoc\obj\Debug\QLBanThuoc.Data.frmConnection.resources
+D:\Study\College Stuff\Nam4\Kỳ 1\CN lập trình tích hợp\BTL\QLBanThuoc\QLBanThuoc\QLBanThuoc\obj\Debug\QLBanThuoc.Data.XtraForm1.resources
+D:\Study\College Stuff\Nam4\Kỳ 1\CN lập trình tích hợp\BTL\QLBanThuoc\QLBanThuoc\QLBanThuoc\obj\Debug\QLBanThuoc.Form1.resources
+D:\Study\College Stuff\Nam4\Kỳ 1\CN lập trình tích hợp\BTL\QLBanThuoc\QLBanThuoc\QLBanThuoc\obj\Debug\QLBanThuoc.frmNhaCungCap.NhaCungCap.resources
+D:\Study\College Stuff\Nam4\Kỳ 1\CN lập trình tích hợp\BTL\QLBanThuoc\QLBanThuoc\QLBanThuoc\obj\Debug\QLBanThuoc.frmQuanLyThuoc.frmBanThuoc.resources
+D:\Study\College Stuff\Nam4\Kỳ 1\CN lập trình tích hợp\BTL\QLBanThuoc\QLBanThuoc\QLBanThuoc\obj\Debug\QLBanThuoc.frmQuanLyThuoc.frmDanhSach.resources
+D:\Study\College Stuff\Nam4\Kỳ 1\CN lập trình tích hợp\BTL\QLBanThuoc\QLBanThuoc\QLBanThuoc\obj\Debug\QLBanThuoc.frmQuanLyNguoiDung.frmNhapThuoc.resources
+D:\Study\College Stuff\Nam4\Kỳ 1\CN lập trình tích hợp\BTL\QLBanThuoc\QLBanThuoc\QLBanThuoc\obj\Debug\QLBanThuoc.frmThongKe.DoanhThu.resources
+D:\Study\College Stuff\Nam4\Kỳ 1\CN lập trình tích hợp\BTL\QLBanThuoc\QLBanThuoc\QLBanThuoc\obj\Debug\QLBanThuoc.frmTimKiem.TenThuoc.resources
+D:\Study\College Stuff\Nam4\Kỳ 1\CN lập trình tích hợp\BTL\QLBanThuoc\QLBanThuoc\QLBanThuoc\obj\Debug\QLBanThuoc.Properties.Resources.resources
+D:\Study\College Stuff\Nam4\Kỳ 1\CN lập trình tích hợp\BTL\QLBanThuoc\QLBanThuoc\QLBanThuoc\obj\Debug\QLBanThuoc.csproj.GenerateResource.cache
+D:\Study\College Stuff\Nam4\Kỳ 1\CN lập trình tích hợp\BTL\QLBanThuoc\QLBanThuoc\QLBanThuoc\obj\Debug\QLBanThuoc.exe.licenses
+D:\Study\College Stuff\Nam4\Kỳ 1\CN lập trình tích hợp\BTL\QLBanThuoc\QLBanThuoc\QLBanThuoc\obj\Debug\QLBanThuoc.csproj.CoreCompileInputs.cache
+D:\Study\College Stuff\Nam4\Kỳ 1\CN lập trình tích hợp\BTL\QLBanThuoc\QLBanThuoc\QLBanThuoc\obj\Debug\QLBanThuoc.csproj.CopyComplete
+D:\Study\College Stuff\Nam4\Kỳ 1\CN lập trình tích hợp\BTL\QLBanThuoc\QLBanThuoc\QLBanThuoc\obj\Debug\QLBanThuoc.exe
+D:\Study\College Stuff\Nam4\Kỳ 1\CN lập trình tích hợp\BTL\QLBanThuoc\QLBanThuoc\QLBanThuoc\obj\Debug\QLBanThuoc.pdb
+D:\Study\College Stuff\Nam4\Kỳ 1\CN lập trình tích hợp\BTL\QLBanThuoc\QLBanThuoc\QLBanThuoc\obj\Debug\QLBanThuoc.Data.Đăng_ký.resources
+D:\Study\College Stuff\Nam4\Kỳ 1\CN lập trình tích hợp\BTL\QLBanThuoc\QLBanThuoc\QLBanThuoc\obj\Debug\QLBanThuoc.Data.Đổi_mật_khẩu.resources
+C:\Users\Hoang Viet\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\obj\Debug\QLBanThuoc.Data.Đăng_ký.resources
+C:\Users\Hoang Viet\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\obj\Debug\QLBanThuoc.Data.Đổi_mật_khẩu.resources
+C:\Users\Hoang Viet\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\obj\Debug\QLBanThuoc.frmThongKe.ThuocOnline.resources
+D:\Study\College Stuff\Nam4\Kỳ 1\CN lập trình tích hợp\BTL\QLBanThuoc\QLBanThuoc\QLBanThuoc\obj\Debug\QLBanThuoc.frmThongKe.ThuocOnline.resources
+C:\Users\Hoang Viet\Desktop\QLBanThuoc\QLBanThuoc\QLBanThuoc\obj\Debug\QLBanThuoc.frmThongKe.DonThuocDaBan.resources
+D:\Study\College Stuff\Nam4\Kỳ 1\CN lập trình tích hợp\BTL\QLBanThuoc\QLBanThuoc\QLBanThuoc\obj\Debug\QLBanThuoc.frmThongKe.DonThuocDaBan.resources
+D:\Study\College Stuff\Nam4\Kỳ 1\CN lập trình tích hợp\BTL\QLBanThuoc\QLBanThuoc\QLBanThuoc\obj\Debug\QLBanThuoc.csprojAssemblyReference.cache

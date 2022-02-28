@@ -1,0 +1,306 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{4E62A670-FC66-49EB-99F2-5FD90A3217FA}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>QLBanThuoc</RootNamespace>
+    <AssemblyName>QLBanThuoc</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DevExpress.BonusSkins.v19.2" />
+    <Reference Include="DevExpress.Charts.v19.2.Core, Version=19.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.CodeParser.v19.2, Version=19.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Data.v19.2" />
+    <Reference Include="DevExpress.DataAccess.v19.2, Version=19.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Office.v19.2.Core, Version=19.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Pdf.v19.2.Core, Version=19.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.PivotGrid.v19.2.Core, Version=19.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Printing.v19.2.Core" />
+    <Reference Include="DevExpress.RichEdit.v19.2.Core, Version=19.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.RichEdit.v19.2.Export, Version=19.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Utils.v19.2" />
+    <Reference Include="DevExpress.Utils.v19.2.UI, Version=19.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Xpo.v19.2, Version=19.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraBars.v19.2" />
+    <Reference Include="DevExpress.Sparkline.v19.2.Core" />
+    <Reference Include="DevExpress.XtraCharts.v19.2, Version=19.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraEditors.v19.2" />
+    <Reference Include="DevExpress.XtraGauges.v19.2.Core, Version=19.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraGrid.v19.2, Version=19.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraLayout.v19.2, Version=19.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraPrinting.v19.2, Version=19.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraReports.v19.2, Version=19.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraReports.v19.2.Extensions, Version=19.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraVerticalGrid.v19.2, Version=19.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.Entity" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.ServiceModel" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BCTK\SoLuongTon.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="BCTK\SoLuongTon.Designer.cs">
+      <DependentUpon>SoLuongTon.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BCTK\ThuocBanRa.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="BCTK\ThuocBanRa.Designer.cs">
+      <DependentUpon>ThuocBanRa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BCTK\ThuocHetHan.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="BCTK\ThuocHetHan.Designer.cs">
+      <DependentUpon>ThuocHetHan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BCTK\ThuocNhap.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="BCTK\ThuocNhap.Designer.cs">
+      <DependentUpon>ThuocNhap.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Connected Services\QL_SR\Reference.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Compile>
+    <Compile Include="Data\ConnectToDB.cs" />
+    <Compile Include="Data\ConnectToDB.Designer.cs">
+      <DependentUpon>ConnectToDB.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Data\Đăng ký.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Data\Đăng ký.Designer.cs">
+      <DependentUpon>Đăng ký.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Data\Đăng nhập.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Data\Đăng nhập.Designer.cs">
+      <DependentUpon>Đăng nhập.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Data\Đổi mật khẩu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Data\Đổi mật khẩu.Designer.cs">
+      <DependentUpon>Đổi mật khẩu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmNhaCungCap\NhaCungCap.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="frmNhaCungCap\NhaCungCap.Designer.cs">
+      <DependentUpon>NhaCungCap.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmQuanLyThuoc\frmBanThuoc.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="frmQuanLyThuoc\frmBanThuoc.Designer.cs">
+      <DependentUpon>frmBanThuoc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmQuanLyThuoc\frmDanhSach.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="frmQuanLyThuoc\frmDanhSach.Designer.cs">
+      <DependentUpon>frmDanhSach.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmQuanLyThuoc\frmNhapThuoc.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="frmQuanLyThuoc\frmNhapThuoc.Designer.cs">
+      <DependentUpon>frmNhapThuoc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmThongKe\DoanhThu.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="frmThongKe\DoanhThu.Designer.cs">
+      <DependentUpon>DoanhThu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmThongKe\DonThuocDaBan.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="frmThongKe\DonThuocDaBan.Designer.cs">
+      <DependentUpon>DonThuocDaBan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmThongKe\ThuocOnline.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="frmThongKe\ThuocOnline.Designer.cs">
+      <DependentUpon>ThuocOnline.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmTimKiem\TenThuoc.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="frmTimKiem\TenThuoc.Designer.cs">
+      <DependentUpon>TenThuoc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="BCTK\SoLuongTon.resx">
+      <DependentUpon>SoLuongTon.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BCTK\ThuocBanRa.resx">
+      <DependentUpon>ThuocBanRa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BCTK\ThuocHetHan.resx">
+      <DependentUpon>ThuocHetHan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BCTK\ThuocNhap.resx">
+      <DependentUpon>ThuocNhap.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Data\ConnectToDB.resx">
+      <DependentUpon>ConnectToDB.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Data\Đăng ký.resx">
+      <DependentUpon>Đăng ký.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Data\Đăng nhập.resx">
+      <DependentUpon>Đăng nhập.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Data\Đổi mật khẩu.resx">
+      <DependentUpon>Đổi mật khẩu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmNhaCungCap\NhaCungCap.resx">
+      <DependentUpon>NhaCungCap.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmQuanLyThuoc\frmBanThuoc.resx">
+      <DependentUpon>frmBanThuoc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmQuanLyThuoc\frmDanhSach.resx">
+      <DependentUpon>frmDanhSach.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmQuanLyThuoc\frmNhapThuoc.resx">
+      <DependentUpon>frmNhapThuoc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmThongKe\DoanhThu.resx">
+      <DependentUpon>DoanhThu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmThongKe\DonThuocDaBan.resx">
+      <DependentUpon>DonThuocDaBan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmThongKe\ThuocOnline.resx">
+      <DependentUpon>ThuocOnline.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTimKiem\TenThuoc.resx">
+      <DependentUpon>TenThuoc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\licenses.licx" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="App.config" />
+    <None Include="Connected Services\QL_SR\QLBanThuoc.QL_SR.GIOHANG.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\QL_SR\QLBanThuoc.QL_SR.HOADON.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\QL_SR\QLBanThuoc.QL_SR.KHACHHANG.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\QL_SR\QLBanThuoc.QL_SR.KHUYENMAI.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\QL_SR\QLBanThuoc.QL_SR.LOAITHUOC.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\QL_SR\QLBanThuoc.QL_SR.THUOC.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\QL_SR\QLBTService.wsdl" />
+    <None Include="Properties\DataSources\System.Data.DataTable.datasource" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Connected Services\" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadataStorage Include="Connected Services\QL_SR\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Connected Services\QL_SR\QLBTService.disco" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Connected Services\QL_SR\configuration91.svcinfo" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Connected Services\QL_SR\configuration.svcinfo" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Connected Services\QL_SR\Reference.svcmap">
+      <Generator>WCF Proxy Generator</Generator>
+      <LastGenOutput>Reference.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it.
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
