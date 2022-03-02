@@ -23,8 +23,8 @@ namespace WSTest
         //static string ConnectionString = @"Data Source=(local)\SQLEXPRESS;Initial Catalog=QLBanThuoc; Integrated Security=True;Connect Timeout=200";
         //static string ConnectionString1 = @"Data Source=(local)\SQLEXPRESS;Initial Catalog=CNWeb_Pharmacy; Integrated Security=True;Connect Timeout=200";
         //ConnectionString - Tung
-        static string ConnectionString = @"Data Source=WIN7PROX64;Initial Catalog=QLBanThuoc; Integrated Security=True;Connect Timeout=200";
-        static string ConnectionString1 = @"Data Source=WIN7PROX64;Initial Catalog=CNWeb_Pharmacy; Integrated Security=True;Connect Timeout=200";
+        static string ConnectionString = @"Data Source=localhost;Initial Catalog=QLBanThuoc; Integrated Security=True;Connect Timeout=200";
+        static string ConnectionString1 = @"Data Source=localhost;Initial Catalog=CNWeb_Pharmacy; Integrated Security=True;Connect Timeout=200";
         public static SqlConnection connection = new SqlConnection(ConnectionString);
         public static SqlConnection connection1 = new SqlConnection(ConnectionString1);
         
@@ -360,7 +360,7 @@ namespace WSTest
             Random r = new Random();
 
             //hàm đăng ký
-            SqlCommand insert = new SqlCommand("insert into NHANVIEN(MaNhanVien,username,password,IdRole) values('" + r.Next(1, 999999999) + "','" + tenDangNhap + "','" + MatKhau + "','1')");
+            SqlCommand insert = new SqlCommand("insert into NHANVIEN(MaNhanVien,username,password) values('" + r.Next(1, 999999999) + "','" + tenDangNhap + "','" + MatKhau + "')");
             Connection.executeQuery(insert);
         }
         //Tùng - Đổi mật khẩu
